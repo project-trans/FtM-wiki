@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Serve",
+      "group": "test",
+      "type": "shell",
+      "command": "hugo",
+      "args": ["serve"],
+      "isBackground": true
+    },
+    {
+      "label": "Build",
+      "group": "build",
+      "type": "shell",
+      "command": "hugo",
+      "isBackground": false,
+      "promptOnClose": true
+    }
+  ]
+}

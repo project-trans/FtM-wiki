@@ -1,0 +1,9 @@
+see-also: See Also
+404-title: 404 Page not found
+404-description: Oops! That page can&rsquo;t be found.
+back-to-home: Back to Home
+abbreviation: '{{ .title }} ({{ .abbr }})'
+last-edited: 'Last Edited: {{ .Format "2/1/2006" }}'
+last-changed: 'Last Changed: {{ .Format "2/1/2006" }}'
+validity-title: Validity
+validity-content: This is an article that was created {{ .Format "2/1/2006" }}, and the information may have evolved or changed.

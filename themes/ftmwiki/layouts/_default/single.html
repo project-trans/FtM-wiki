@@ -1,0 +1,16 @@
+{{ define "title" }}
+{{- cond .IsHome .Site.Title (print .Title " - " .Site.Title) -}}
+{{ end }}
+{{- define "main" }}
+<main class="section">
+<section class="container py-4">
+{{- if not .IsHome }}
+{{ partial "breadcrumbs" . }}
+{{- end }}
+{{ partial "page-header" . }}
+<main class="mt-6">
+{{ partial "page-content" . }}
+</main>
+</section>
+</main>
+{{- end }}

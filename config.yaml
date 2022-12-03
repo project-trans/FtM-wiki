@@ -1,0 +1,24 @@
+title: FtM.wiki
+baseURL: https://ftm.wiki
+theme: ftmwiki
+
+languageCode: zh-cn
+hasCJKLanguage: true
+defaultContentLanguage: zh-cn
+defaultContentLanguageInSubdir: true
+disableKinds: [taxonomy, term]
+enableGitInfo: true
+enableRobotsTXT: true
+
+copyright: >-
+  &copy; #YEAR# FtM.wiki,
+  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+
+params:
+  description: 跨性别男性知识库
+  validity: 90
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

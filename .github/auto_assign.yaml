@@ -1,0 +1,3 @@
+addReviewers: true
+reviewers: [/editors, /mtfwiki-delegates]
+numberOfReviewers: 0

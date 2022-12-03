@@ -1,0 +1,6 @@
+<header class="page-header block has-text-centered">
+<p class="title">{{ .Title }}</p>
+{{- with .Params.subtitle | default .Description }}
+<p class="subtitle">{{ . }}</p>
+{{- end }}
+</header>

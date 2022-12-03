@@ -1,0 +1,2 @@
+{{- $formula := .Get 0 -}}
+<span class="formula">{{ $formula | replaceRE `\d+` "<sub>$0</sub>" | safeHTML }}</span>

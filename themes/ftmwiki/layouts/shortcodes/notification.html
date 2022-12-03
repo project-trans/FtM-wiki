@@ -1,0 +1,3 @@
+{{- $classes := slice "notification" | append .Params }}
+{{- $name := delimit $classes " " }}
+<section class="{{ $name }}">{{ .Inner | markdownify }}</section>

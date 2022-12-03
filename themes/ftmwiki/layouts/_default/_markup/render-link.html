@@ -1,0 +1,6 @@
+{{- $blank := hasPrefix (.Destination | relURL) "http" -}}
+{{- $text := .Text | replaceRE `^https?://(www\.)?` "" -}}
+<a href="{{ .Destination }}"
+{{- with .Title }} title="{{ . }}"{{- end -}}
+{{- if $blank }} target="_blank"{{- end -}}
+>{{- $text | safeHTML -}}</a>

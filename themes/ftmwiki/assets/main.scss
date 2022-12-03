@@ -1,0 +1,129 @@
+@import 'node_modules/bulma/bulma';
+
+body {
+  $font-family: Helvetica, Arial, '-apple-system', 'BlinkMacSystemFont', system-ui, sans-serif;
+  $font-family-tc: 'PingFang TC', 'Apple LiGothic Medium', 'Microsoft JhengHei', 'WenQuanYi Zen Hei', $font-family;
+
+  @at-root :root:lang(zh-cn) & {
+    font-family: 'Noto Sans SC', 'PingFang SC', $font-family;
+  }
+
+  @at-root :root:lang(zh-tw) & {
+    font-family: 'Noto Sans TC', $font-family-tc;
+  }
+
+  @at-root :root:lang(zh-hk) & {
+    font-family: 'Noto Sans HK', $font-family-tc;
+  }
+
+  > main {
+    min-height: 100vh;
+  }
+}
+
+main > .container {
+  @include from($tablet) {
+    max-width: $tablet !important;
+  }
+}
+
+.navbar-menu .navbar-item {
+  color: $blue;
+  &.is-active {
+    color: $black;
+    background-color: transparent;
+  }
+}
+
+.not-found-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  a,
+  abbr {
+    display: inline-block;
+  }
+
+  table.table {
+    white-space: nowrap;
+    th,
+    td {
+      vertical-align: middle;
+    }
+    &.is-autowidth {
+      width: auto;
+    }
+  }
+
+  figure[data-mask='true'] img {
+    cursor: pointer;
+
+    filter: blur($size-4);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    a[href^='#'] {
+      font-size: 0.6em;
+
+      visibility: hidden;
+
+      user-select: none;
+      vertical-align: super;
+    }
+    &:hover a[href^='#'] {
+      visibility: visible;
+    }
+  }
+
+  li {
+    & > p {
+      margin-top: 1em;
+    }
+    & + li {
+      margin-top: 0.25em;
+    }
+  }
+
+  .gallery {
+    display: flex;
+    overflow-x: auto;
+    justify-content: flex-start;
+
+    gap: $gap;
+
+    img {
+      max-height: 50vh;
+
+      object-fit: contain;
+    }
+  }
+
+  .footnote {
+    &-ref {
+      &::before {
+        content: '[';
+      }
+      &::after {
+        content: ']';
+      }
+    }
+
+    &-backref {
+      font-size: $size-7;
+    }
+
+    &-target {
+      border-radius: $radius-large;
+      outline: 0.0625rem dashed $blue;
+      outline-offset: 0.1rem;
+    }
+  }
+}

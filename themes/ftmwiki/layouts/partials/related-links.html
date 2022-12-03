@@ -1,0 +1,8 @@
+{{- with (.Site.RegularPages.Related .) | first 5 -}}
+<h2 id="see-also">{{ T "see-also" }} <a href="#see-also">#</a></h2>
+<ul class="see-also">
+{{- range . }}
+<li><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .LinkTitle }}</a></li>
+{{- end }}
+</ul>
+{{- end }}

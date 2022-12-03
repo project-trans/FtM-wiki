@@ -1,0 +1,23 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.associations": {
+    "**/LICENSE": "plaintext",
+    "**/CODEOWNERS": "plaintext",
+    "**/layouts/**/*": "plaintext",
+    "**/public/**/*": "plaintext",
+    "**/jsconfig.json": "plaintext",
+    "_headers": "plaintext",
+    "_redirects": "plaintext"
+  },
+  "search.exclude": {
+    "**/LICENSE": true,
+    "**/public/**/*": true,
+    "**/resources/**/*": true,
+    "**/themes/ftmwiki/**/*": true,
+    "**/*.svg": true
+  }
+}

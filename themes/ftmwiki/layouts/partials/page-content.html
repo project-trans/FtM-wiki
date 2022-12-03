@@ -1,0 +1,10 @@
+{{- if .Content }}
+<section class="content">
+{{- partial "validity" . }}
+{{ .Content }}
+{{- partial "related-links" . }}
+{{- if and .Lastmod .IsPage }}
+<p class="has-text-right has-text-grey-light">{{ T "last-edited" .Lastmod | safeHTML }}</p>
+{{- end }}
+</section>
+{{- end }}

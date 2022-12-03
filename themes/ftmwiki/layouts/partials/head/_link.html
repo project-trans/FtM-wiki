@@ -1,0 +1,8 @@
+{{-
+$cssOptions := dict
+  "outputStyle" "compressed"
+  "enableSourceMap" (not hugo.IsProduction)
+-}}
+{{- with resources.Get "main.scss" | toCSS $cssOptions | fingerprint }}
+<link href="{{ .Permalink }}" rel="stylesheet">
+{{- end }}

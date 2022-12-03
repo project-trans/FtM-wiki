@@ -1,0 +1,9 @@
+see-also: 相关文章
+404-title: 页面未找到
+404-description: 该页面可能发生了变更。
+back-to-home: 返回首页
+abbreviation: '{{ .title }} ({{ .abbr }})'
+last-edited: 编辑时间：{{ .Format "2006 年 1 月 2 日" }}
+last-changed: 更新时间：{{ .Format "2006 年 1 月 2 日" }}
+validity-title: 时效性提示
+validity-content: 这是一篇创建于 {{ .Format "2006 年 1 月 2 日" }} 的文章，其中的信息可能已经有所发展或是发生改变。

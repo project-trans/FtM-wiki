@@ -1,0 +1,3 @@
+{{- with .Params.robots | default .Site.Params.robots }}
+<meta name="robots" content='{{ delimit . ", " }}'>
+{{- end }}

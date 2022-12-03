@@ -1,0 +1,165 @@
+MtF:
+  title: 跨性别女性
+  origin: Male to Female
+FtM:
+  title: 跨性别男性
+  origin: Female to Male
+RLE:
+  title: 真实生活体验
+  origin: Real-life_experience
+  href: https://en.wikipedia.org/wiki/Real-life_experience_(transgender)
+SRS:
+  title: 性别重置手术
+  origin: Sex reassignment surgery
+  href: https://en.wikipedia.org/wiki/Sex_reassignment_surgery_%28female-to-male%29
+PCOS:
+  title: 多囊卵巢综合症
+  origin: Polycystic ovary syndrome
+  href: https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome
+GH:
+  title: 生长激素
+  origin: Growth hormone
+  href: https://en.wikipedia.org/wiki/Growth_hormone
+SHBG:
+  title: 性激素结合球蛋白
+  origin: Sex hormone-binding globulin
+  href: https://en.wikipedia.org/wiki/Sex_hormone-binding_globulin
+5aDHT:
+  abbr: 5&alpha;-DHT
+  title: 5&alpha; 双氢睾酮
+  origin: Androstanolone
+  href: https://en.wikipedia.org/wiki/Androstanolone
+DHT:
+  title: 双氢睾酮
+  origin: Dihydrotestosterone
+  href: https://en.wikipedia.org/wiki/Dihydrotestosterone
+T:
+  title: 睾酮
+  origin: Testosterone
+  href: https://en.wikipedia.org/wiki/Testosterone
+TT:
+  title: 总睾酮
+  origin: Total Testosterone
+  href: https://en.wikipedia.org/wiki/Testosterone#Levels
+FT:
+  title: 游离睾酮
+  origin: Free Testosterone
+  href: https://en.wikipedia.org/wiki/Testosterone#Free_testosterone
+TU:
+  title: 十一酸睾酮
+  origin: Testosterone Undecanoate
+  href: https://en.wikipedia.org/wiki/Testosterone_undecanoate
+TE:
+  title: 庚酸睾酮
+  origin: Testosterone Enanthate
+  href: https://en.wikipedia.org/wiki/Testosterone_enanthate
+TC:
+  title: 环戊丙酸睾酮
+  origin: Testosterone Cypionate
+  href: https://en.wikipedia.org/wiki/Testosterone_cypionate
+TP:
+  title: 丙酸睾酮
+  origin: Testosterone Propionate
+  href: https://en.wikipedia.org/wiki/Testosterone_propionate
+FMS:
+  title: 面部男性化手术
+  origin: Facial Masculinization Surgery
+  href: https://en.wikipedia.org/wiki/Facial_masculinization_surgery
+HRT:
+  title: 激素替代治疗
+  origin: Hormone Replacement Therapy
+  href: https://en.wikipedia.org/wiki/Hormone_replacement_therapy
+FHT:
+  title: 女性化激素治疗
+  origin: Feminizing hormone therapy
+  href: https://en.wikipedia.org/wiki/Feminizing_hormone_therapy
+MHT:
+  title: 男性化激素治疗
+  origin: Masculinizing hormone therapy
+  href: https://en.wikipedia.org/wiki/Masculinizing_hormone_therapy
+GAHT:
+  title: 性别肯定激素治疗
+  origin: Gender-Affirming Hormone Therapy
+  href: https://en.wikipedia.org/wiki/Transgender_hormone_therapy
+ART:
+  title: 雄激素替代治疗
+  origin: Androgen Replacement Therapy
+  href: https://en.wikipedia.org/wiki/Androgen_replacement_therapy
+AAS:
+  title: 合成雄激素/合成代谢类固醇
+  origin: Anabolic-Androgenic Steroids
+  href: https://en.wikipedia.org/wiki/Anabolic_steroid
+AR:
+  title: 雄激素受体
+  origin: Androgen Receptor
+  href: https://en.wikipedia.org/wiki/Androgen_receptor
+ARO:
+  title: 芳香化酶
+  origin: Aromatase
+  href: https://en.wikipedia.org/wiki/Aromatase
+AIs:
+  title: 芳香化酶抑制剂
+  origin: Aromatase inhibitors
+  href: https://en.wikipedia.org/wiki/Aromatase_inhibitor
+SERMs:
+  title: 选择性雌激素受体调节剂
+  origin: Selective estrogen receptor modulator
+  href: https://en.wikipedia.org/wiki/Selective_estrogen_receptor_modulator
+5aR:
+  abbr: 5&alpha;R
+  title: 5&alpha;-还原酶
+  origin: 5&alpha;-Reductase
+  href: https://en.wikipedia.org/wiki/5%CE%B1-Reductase
+5aR2:
+  abbr: 5&alpha;R2
+  title: 5&alpha;-还原酶 2 型
+  origin: 5&alpha;-Reductase 2
+  href: https://en.wikipedia.org/wiki/5%CE%B1-Reductase#5%CE%B1-Reductase_2
+5aR2D:
+  abbr: 5&alpha;R2D
+  title: 5&alpha;-还原酶 2 型缺乏症
+  origin: 5&alpha;-Reductase 2 deficiency
+  href: https://en.wikipedia.org/wiki/5%CE%B1-Reductase_2_deficiency
+cisF:
+  origin: Cisgender Female
+  title: 顺性别女性
+cisM:
+  origin: Cisgender Male
+  title: 顺性别男性
+IUD:
+  title: 宫内避孕器
+  origin: Intrauterine device
+  href: https://en.wikipedia.org/wiki/Intrauterine_device
+LARC:
+  title: 长效可逆避孕
+  origin: Long-acting reversible contraceptives
+  href: https://en.wikipedia.org/wiki/Long-acting_reversible_contraceptives
+P4:
+  title: 黄体酮
+  origin: Progesterone
+  href: https://en.wikipedia.org/wiki/Progesterone
+PMDD:
+  title: 经前期烦躁综合症
+  origin: Premenstrual dysphoric disorder
+  href: https://en.wikipedia.org/wiki/Premenstrual_dysphoric_disorder
+GnRH-agonist:
+  abbr: GnRH agonist
+  title: GnRH 激动剂
+  origin: gonadotropin-releasing hormone agonist
+  href: https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone_agonist
+GnRH-antagonist:
+  abbr: GnRH antagonist
+  title: GnRH 拮抗剂
+  origin: gonadotropin-releasing hormone antagonist
+  href: https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone_antagonist
+PrEP:
+  title: 暴露前预防
+  origin: Pre-exposure prophylaxis
+  href: https://en.wikipedia.org/wiki/Pre-exposure_prophylaxis
+PEP:
+  title: 暴露后预防
+  origin: Post-exposure prophylaxis
+  href: https://en.wikipedia.org/wiki/Post-exposure_prophylaxis
+MDT:
+  title: 多学科联合诊疗
+  origin: Multidisciplinary Team

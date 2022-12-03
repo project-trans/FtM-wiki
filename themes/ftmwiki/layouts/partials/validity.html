@@ -1,0 +1,11 @@
+{{- $validity := .Params.validity | default .Site.Params.validity -}}
+{{- if and (gt $validity 0) .Lastmod }}
+{{- $days := div (now.Sub .Lastmod).Hours 24 | math.Round }}
+{{- $validity = $validity | default 90 -}}
+{{- if and (le $validity $days) (not .IsHome) .IsPage }}
+<article class="message is-info" data-time="{{ .Lastmod | jsonify }}">
+<section class="message-header">{{ T "validity-title" }}</section>
+<section class="message-body">{{ T "validity-content" .Lastmod | safeHTML }}</section>
+</article>
+{{- end }}
+{{- end }}

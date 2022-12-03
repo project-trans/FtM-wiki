@@ -1,0 +1,14 @@
+{{- $abbr := .Get 0 -}}
+{{- $abbreviation := index .Site.Data (print "abbreviation." .Page.Language.Lang) -}}
+{{- with index $abbreviation $abbr -}}
+{{- $text := T "abbreviation" (merge (dict "abbr" $abbr) .) -}}
+{{- $meta := dict "origin" .origin "text" $text }}
+{{- if .href -}}
+<a href="{{ .href }}" target="_blank">{{ template "abbr" $meta }}</a>
+{{- else -}}
+{{ template "abbr" $meta }}
+{{- end -}}
+{{- else -}}
+{{ errorf "%s not found w/ %s" $abbr .Page.Language }}
+{{- end -}}
+{{ define "abbr" }}<abbr title="{{ .origin | safeHTML }}">{{ .text | safeHTML }}</abbr>{{ end }}

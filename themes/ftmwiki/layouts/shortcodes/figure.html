@@ -1,0 +1,24 @@
+{{- $title := .Get "title" }}
+{{- $src := .Get "src" }}
+{{- $width := .Get "width" }}
+{{- $height := .Get "height" }}
+{{- $mask := not (eq (.Get "mask") "") }}
+{{- $page := cond (eq .Page.BundleType "leaf") .Page .Page.Parent }}
+{{- with $page.Resources.Get $src }}
+<figure title="{{ $title }}" data-mask="{{ $mask }}">
+{{- if eq .MediaType.SubType "svg" }}
+<img src="{{ .Permalink }}"{{ with $width }} width="{{ . }}"{{ end }} {{ with $height }} height="{{ . }}"{{ end }}>
+{{- else }}
+<img src="{{ .Permalink }}" width="{{ $width | default .Width }}" height="{{ $height | default .Height }}">
+{{- end }}
+<figcaption><h4>{{ $title }}</h4></figcaption>
+</figure>
+{{- else }}
+{{- if hasPrefix ($src | relURL) "/" }}
+  {{- errorf "%q not found w/ %q" $src .Page.File.Path }}
+{{- end }}
+<figure title="{{ $title }}" data-mask="{{ $mask }}">
+<img src="{{ $src }}"{{ with $width }} width="{{ . }}"{{ end }} {{ with $height }} height="{{ . }}"{{ end }}>
+<figcaption><h4>{{ $title }}</h4></figcaption>
+</figure>
+{{- end }}

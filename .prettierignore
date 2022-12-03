@@ -1,0 +1,7 @@
+public
+resources
+**/assets/jsconfig.json
+**/layouts
+
+*.min.css
+*.min.js

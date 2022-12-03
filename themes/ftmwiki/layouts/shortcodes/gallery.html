@@ -1,0 +1,6 @@
+{{- $page := cond (eq .Page.BundleType "leaf") .Page .Page.Parent }}
+<section class="gallery">
+{{- range $page.Resources.Match (.Get "pattern") }}
+<img class="image" src="{{ .Permalink }}" width="{{ .Width }}" height="{{ .Height }}">
+{{- end }}
+</section>

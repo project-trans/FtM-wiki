@@ -1,0 +1,4 @@
+{{- with resources.GetMatch "favicon**" }}
+<link href="{{ .Permalink }}" rel="icon">
+<link href="{{ .Permalink }}" rel="apple-touch-icon">
+{{- end }}

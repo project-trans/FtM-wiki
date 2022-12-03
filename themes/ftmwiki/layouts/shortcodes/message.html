@@ -1,0 +1,10 @@
+{{- $classes := slice "message" -}}
+{{- with .Get "addon" -}}
+  {{- $classes = $classes | append . -}}
+{{- end -}}
+<article class='{{- delimit $classes " " -}}'>
+{{- with .Get "title" }}
+<section class="message-header">{{ . | markdownify }}</section>
+{{- end }}
+<section class="message-body">{{ .Inner | markdownify }}</section>
+</article>

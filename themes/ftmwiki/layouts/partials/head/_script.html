@@ -1,0 +1,9 @@
+{{- $jsOptions := dict "minify" true "sourceMap" (cond hugo.IsProduction nil "inline") -}}
+{{- with resources.Get "main.ts" | js.Build $jsOptions | fingerprint }}
+<script src="{{ .Permalink }}" async defer></script>
+{{- end }}
+{{- if hugo.IsProduction }}
+{{- with resources.Get "gtag.ts" | js.Build $jsOptions | fingerprint }}
+<script src="{{ .Permalink }}" async defer></script>
+{{- end }}
+{{- end }}

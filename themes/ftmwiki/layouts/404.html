@@ -1,0 +1,13 @@
+{{- define "main" }}
+<main class="section not-found-page">
+<section class="container has-text-centered">
+<section class="columns is-centered">
+<section class="column is-7">
+<h1 class="title is-1">{{ T "404-title" | safeHTML }}</h1>
+<p class="subtitle is-3">{{ T "404-description" | safeHTML }}</p>
+</section>
+</section>
+<a href="{{ .Site.Home.Permalink }}" class="button is-primary">{{ T "back-to-home" }}</a>
+</section>
+</main>
+{{ end }}

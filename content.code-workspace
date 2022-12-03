@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "search.exclude": {
+      "**/*.svg": true
+    }
+  },
+  "folders": [
+    {
+      "name": "zh-CN",
+      "path": "content.zh-cn"
+    },
+    {
+      "name": "en",
+      "path": "content.en"
+    },
+    {
+      "path": "data"
+    }
+  ]
+}

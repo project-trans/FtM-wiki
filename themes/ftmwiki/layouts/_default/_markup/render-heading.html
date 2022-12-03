@@ -1,0 +1,5 @@
+{{- $anchor := .Anchor | safeURL -}}
+<h{{ .Level }} id="{{ $anchor }}">
+{{- .Text | safeHTML -}}
+{{- with findRE `^[a-zA-Z\d_-]+$` .Anchor }} <a href="#{{ $anchor }}">#</a>{{ end -}}
+</h{{ .Level }}>

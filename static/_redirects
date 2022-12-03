@@ -1,0 +1,57 @@
+/favicon.ico /favicon.png
+/security.txt https://mtf.wiki/.well-known/security.txt
+/.well-known/security.txt https://mtf.wiki/.well-known/security.txt
+/humans.txt https://github.com/ftm-wiki
+/archives/15 /hrt/ 301
+/archives/17 /hrt/hormone-check/ 301
+/archives/19 /hrt/androgen/ 301
+/archives/22 /hrt/should-not-use/ 301
+/archives/25 /rle/corset/ 301
+/archives/37 /hrt/verification/ 301
+/archives/47 /psycho/confirmed/ 301
+/archives/51 /psycho/confirmed/ 301
+/archives/123 /psycho/confirmed/ 301
+/archives/158 /psycho/confirmed/ 301
+/archives/164 /hrt/progesterone/ 301
+/archives/168 /hrt/gnrh/ 301
+/archives/178 /other/routine-medical/ 301
+/archives/180 /srs/top-surgery/ 301
+/archives/184 /srs/overview/ 301
+/archives/192 /psycho/confirmed/ 301
+/archives/200 /hrt/confirmed/ 301
+/archives/205 /hrt/injection-guide/ 301
+/archives/238 /psycho/confirmed/ 301
+/archives/238 /psycho/terminology/ 301
+/archives/308 /srs/411/stage-1/ 301
+/archives/312 /rle/packer/ 301
+/archives/319 /srs/ 301
+/archives/321 /fms/ 301
+/archives/326 /hrt/fertility/ 301
+/archives/328 /hrt/breast-cancer/ 301
+/archives/336 /rle/come-out-parents/ 301
+/archives/346 /hrt/verification/ 301
+/archives/369 /psycho/confirmed/ 301
+/archives/411 /hrt/confirmed/ 301
+/archives/414 /hrt/confirmed/ 301
+/archives/419 /hrt/confirmed/ 301
+/archives/444 /psycho/confirmed/ 301
+/archives/446 /psycho/confirmed/ 301
+/archives/448 /hrt/confirmed/ 301
+/archives/451 /hrt/drugs/ 301
+/archives/453 /srs/411/ 301
+/archives/484 /hrt/dht/ 301
+/archives/522 /hrt/hormone-growth/ 301
+/archives/525 /hrt/testosterone/ 301
+/archives/537 /hrt/hormone-check/ 301
+/archives/604 /rle/hairstyle/ 301
+/archives/670 /srs/top-surgery/after-care/ 301
+/archives/684 /rle/vocal-training/ 301
+/archives/category/hrt/hrt-hospital /hrt/confirmed/ 301
+/archives/category/notice /about-us/ 301
+/archives/category/psyco /psycho/ 301
+/archives/category/psyco/theories /psycho/ 301
+/archives/category/rle /rle/ 301
+/archives/category/surgery /srs/ 301
+/archives/category/surgery/bottom-surgery /srs/overview/ 301
+/archives/category/surgery/top-surgery /srs/top-surgery/ 301
+/other/* /misc/:splat 301

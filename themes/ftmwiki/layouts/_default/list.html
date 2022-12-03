@@ -1,0 +1,21 @@
+{{- define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end }}
+{{- define "main" }}
+<main class="section">
+<section class="container py-4">
+{{- if not .IsHome }}
+{{ partial "breadcrumbs" . }}
+{{- end }}
+{{ partial "page-header" . }}
+<main class="mt-6">
+{{ partial "page-content" . }}
+{{- if .Pages }}
+<ul class="menu-list">
+{{- range where .Pages ".Weight" "ge" 0 }}
+<li><a class="has-text-link" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+{{- end }}
+</ul>
+{{- end }}
+</main>
+</section>
+</main>
+{{- end }}

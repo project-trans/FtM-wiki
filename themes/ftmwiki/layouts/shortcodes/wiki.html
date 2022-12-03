@@ -1,0 +1,6 @@
+{{- $parts := split (.Get 0) "|" -}}
+{{- $name := index $parts 0 -}}
+{{- $title := index $parts 1 | default $name -}}
+{{- $lang := .Get 1 | default (index (split .Site.LanguageCode "-") 0) -}}
+{{- $href := printf "https://%s.wikipedia.org/wiki/%s" $lang (replace $name " " "_") -}}
+<a href="{{ $href }}" title="{{ $title }}" target="_blank">{{ $title }}</a>

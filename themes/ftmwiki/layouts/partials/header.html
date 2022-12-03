@@ -1,0 +1,39 @@
+{{- $currentPage := . }}
+{{- $pages := .Site.Home.Pages }}
+<header class="navbar is-fixed-top has-shadow">
+<section class="container">
+<section class="navbar-brand">
+<a class="navbar-item" href="{{ .Site.Home.Permalink }}" tabindex="-1">
+<span class="title">{{ .Site.Title }}</span>
+</a>
+<button class="navbar-burger">
+<span aria-hidden="true"></span>
+<span aria-hidden="true"></span>
+<span aria-hidden="true"></span>
+</button>
+</section>
+<section class="navbar-menu">
+<section class="navbar-start">
+{{- range where $pages ".Weight" "ge" 0 }}
+{{- template "navbar-page-link" (dict "Page" . "CurrentPage" $currentPage) }}
+{{- end }}
+</section>
+<section class="navbar-end">
+{{- range where $pages ".Weight" "lt" 0 }}
+{{- template "navbar-page-link" (dict "Page" . "CurrentPage" $currentPage) }}
+{{- end }}
+</section>
+</section>
+</section>
+</header>
+{{- define "navbar-page-link" }}
+{{- $classes := slice "navbar-item" }}
+{{-
+$active := or
+  (and .Page.IsNode (.Page.InSection .CurrentPage))
+  (eq .CurrentPage .Page)
+-}}
+{{- if $active }}{{- $classes = $classes | append "is-active" -}}{{- end -}}
+{{- $className := delimit $classes " " }}
+<a class="{{ $className }}" href="{{ .Page.Permalink }}" title="{{ .Page.Description | default .Page.Title }}">{{ .Page.LinkTitle }}</a>
+{{- end }}
