@@ -32,7 +32,7 @@ Email: <hi@ftm.wiki>
 
 Twitter: [@FtMwiki](https://twitter.com/FtMwiki)
 
-Discord: <https://link.ftm.wiki/discord>
+Discord: <https://discord.com/invite/KuAuwBMuT9>
 
 GitHub: <https://github.com/project-trans/FtM-wiki>
 
