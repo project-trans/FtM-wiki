@@ -48,6 +48,8 @@ Email: <hi@ftm.wiki>
 
 Twitter: [@FtMwiki](https://twitter.com/FtMwiki)
 
+Mastodon: [@FtMwiki@mastodon.social](https://mastodon.social/@FtMwiki)
+
 Discord: <https://discord.com/invite/KuAuwBMuT9>
 
 GitHub: <https://github.com/project-trans/FtM-wiki>
