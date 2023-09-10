@@ -1,11 +1,11 @@
 ---
-title: 上海长海医院（虹口院区）
+title: 上海四一一医院
 description: 目前中国大陆最好的 FtM SRS 医疗机构
 slug: 411
 weight: 300
 ---
 
-本文为对 [MtF.wiki - 上海长海医院](https://mtf.wiki/zh-cn/docs/srs/china/sh411/) 进行的 {{< abbr FtM >}} 内容补充
+本文为对 [MtF.wiki - 上海四一一医院](https://mtf.wiki/zh-cn/docs/srs/china/sh411/) 进行的 {{< abbr FtM >}} 内容补充
 
 {{< message title="注意事项" >}}
 
@@ -16,7 +16,7 @@ weight: 300
 
 赵烨德医生是国内相对有经验的 SRS 医生（尤其在 {{< abbr FtM >}} 方面全球一流）。
 
-上海长海医院处手术技术分期：请参见 {{< page "srs-overview-china" >}}
+上海四一一医院处手术技术分期：请参见 {{< page "srs-overview-china" >}}
 
 **胸廓男性化手术** 可独立进行，也可合并在 二期/三期。
 
