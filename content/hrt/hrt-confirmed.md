@@ -29,6 +29,6 @@ weight: 2
 北京市,北京大学第三医院,[刘烨](https://mtf.wiki/zh-cn/docs/hrt/puth/liu-ye/),
 上海市,[上海复旦大学附属儿童医院](https://mtf.wiki/zh-cn/docs/hrt/fudan-ch/),,跨性别 {{< abbr MDT >}} 门诊
 上海市,上海交通大学医学院附属新华医院,[邱文娟](https://mtf.wiki/zh-cn/docs/hrt/qiu-wenjuan/),
-上海市，上海交通大学医学院附属瑞金医院,,性腺专病
+上海市,上海交通大学医学院附属瑞金医院,,性腺专病
 深圳市,香港大学深圳医院,,
 ```
