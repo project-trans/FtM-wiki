@@ -11,6 +11,7 @@ weight: 2
 ```csv
 省市,医院名称,医生姓名,备注
 上海市,[上海第九人民医院]({{< ref "mht-sh9" >}}),程辰,提供 HRT 指导，使用 十一酸睾酮**软胶囊**
+上海市,上海第一人民医院,,需 "建议行雄激素治疗"病历 或 处方 开具十一酸睾酮软胶囊
 北京市,[北京大学第三医院](https://mtf.wiki/zh-cn/docs/hrt/puth/),,提供 HRT 指导，使用 十一酸睾酮**注射液**
 云南省昆明市,云南九州医院,,院内可购药，需要 处方 或 [诊断证明]({{< ref "psycho" >}})；[Twitter](https://twitter.com/jYiCHRgvKnDVz0G/status/1489223411381374980)
 广东省广州市,中山大学孙逸仙纪念医院,王成芷,可提供 HRT 指导
@@ -28,5 +29,7 @@ weight: 2
 北京市,北京大学第三医院,[刘烨](https://mtf.wiki/zh-cn/docs/hrt/puth/liu-ye/),
 上海市,[上海复旦大学附属儿童医院](https://mtf.wiki/zh-cn/docs/hrt/fudan-ch/),,跨性别 {{< abbr MDT >}} 门诊
 上海市,上海交通大学医学院附属新华医院,[邱文娟](https://mtf.wiki/zh-cn/docs/hrt/qiu-wenjuan/),
+上海市,上海交通大学医学院附属瑞金医院,,性腺专病
 深圳市,香港大学深圳医院,,
 ```
+注：上海瑞金医生可能开具大量检查。瑞金医院睾酮长期缺药，只能提供GnRH类似物。
