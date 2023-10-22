@@ -11,6 +11,8 @@ tags: [HRT]
 
 {{< /message >}}
 
+请自行注射的兄弟务必留心安全问题，以免造成不必要的麻烦。
+
 请参见：[跨性别：如何安全注射激素](musle-injection.pdf) by 爱白网（<https://aibai.cn>）
 
 ## 其余需要注意的事项
