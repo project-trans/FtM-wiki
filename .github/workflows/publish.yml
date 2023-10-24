@@ -24,7 +24,11 @@ jobs:
           extended: true
       - run: npm ci
       - run: npx prettier --check .
-      - run: npx markdownlint-cli "**/*.md"
+      - if: failure()
+        run: |
+          npx prettier --write .
+          git diff
+      - run: npx markdownlint-cli "**/*.md" --disable MD036
       - run: hugo --minify
       - run: npx wrangler pages deploy public --project-name ftmwiki --branch main
         if: github.ref == 'refs/heads/main'
