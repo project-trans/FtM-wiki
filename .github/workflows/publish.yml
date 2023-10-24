@@ -23,7 +23,11 @@ jobs:
           hugo-version: latest
           extended: true
       - run: npm ci
-      - run: npx prettier --check . --log-level debug
+      - run: npx prettier --check .
+      - if: failure()
+        run: |
+          npx prettier --write .
+          git diff
       - run: npx markdownlint-cli "**/*.md"
       - run: hugo --minify
       - run: npx wrangler pages deploy public --project-name ftmwiki --branch main
