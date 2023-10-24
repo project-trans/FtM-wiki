@@ -7,4 +7,4 @@ weight: 4
 
 **HRT效果注意事项(通用）：**
 
-![必要注意事项](https://github.com/GehangMa/FtM-wiki/blob/main/content/hrt/Notice.JPG)
+![必要注意事项]({{< figure src="Notice.png" >}})
