@@ -16,7 +16,6 @@ weight: 2
 省市,医院名称,医生姓名
 北京市,[北京回龙观医院](https://mtf.wiki/zh-cn/docs/psyco/beijing/bhlgh/),
 北京市,北京大学第三医院,[胡佩诚](https://mtf.wiki/zh-cn/docs/psyco/beijing/hu-peicheng/)
-北京市,北京大学第六医院,[丛中](https://mtf.wiki/zh-cn/docs/psyco/beijing/cong-zhong/)
 上海市,[上海市精神卫生中心](https://mtf.wiki/zh-cn/docs/psyco/shanghai/shmhc/),
 云南省昆明市,云南省第二人民医院,[刘瑞湘](https://mtf.wiki/zh-cn/docs/psyco/yunnan/liu-ruixiang/)
 云南省昆明市,云南省精神病医院,合浩
