@@ -7,4 +7,4 @@ weight: 4
 
 **HRT效果注意事项(通用）：**
 
-![必要注意事项](Notice.JPG)
+![](Notice.JPG)
