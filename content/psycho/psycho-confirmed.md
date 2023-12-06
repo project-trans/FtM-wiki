@@ -24,6 +24,7 @@ weight: 2
 辽宁省大连市,大连第七人民医院,[张亮](https://mtf.wiki/zh-cn/docs/psyco/liaoning/zhang-liang/),
 湖南省长沙市,中南大学湘雅二医院,[贺莹](https://mtf.wiki/zh-cn/docs/psyco/hunan/he-ying/),已确认友FtM
 ```
+
 需要注意的是，除特殊备注 友跨 或 友FtM 的医生以外，可能并不是所有对MtF友善的医生都对FtM友善。
 
 更多信息请参见 <https://mtf.wiki/zh-cn/docs/psyco/>
