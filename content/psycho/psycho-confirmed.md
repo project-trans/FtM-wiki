@@ -12,17 +12,20 @@ weight: 2
 
 对于 开具诊断证明标准 请参见：[精神科医疗资源综述](https://mtf.wiki/zh-cn/docs/psyco/overview/)
 
+据 MtF.Wiki 记录的就诊经历中，以下医生对跨性别就诊人态度友善/和蔼：
+
 ```csv
-省市,医院名称,医生姓名
-北京市,[北京回龙观医院](https://mtf.wiki/zh-cn/docs/psyco/beijing/bhlgh/),
-北京市,北京大学第三医院,[胡佩诚](https://mtf.wiki/zh-cn/docs/psyco/beijing/hu-peicheng/)
-上海市,[上海市精神卫生中心](https://mtf.wiki/zh-cn/docs/psyco/shanghai/shmhc/),
-云南省昆明市,云南省第二人民医院,[刘瑞湘](https://mtf.wiki/zh-cn/docs/psyco/yunnan/liu-ruixiang/)
-云南省昆明市,云南省精神病医院,合浩
-广东省广州市,广东省人民医院,[姜美俊](https://github.com/project-trans/MtF-wiki/issues/374)
-广东省深圳市,深圳市康宁医院,[张倩](https://zhuanlan.zhihu.com/p/483244690)
-江苏省南京市,南京脑科医院,[武欣](https://mtf.wiki/zh-cn/docs/psyco/jiangsu/wu-xin/)
+省市,医院名称,医生姓名,备注
+北京市,北京大学第三医院,[胡佩诚](https://mtf.wiki/zh-cn/docs/psyco/beijing/hu-peicheng/),
+广东省广州市,广东省人民医院,[姜美俊](https://github.com/project-trans/MtF-wiki/issues/374),已确认友FtM
+广东省广州市,广州医科大学附属脑科医院,[赵素华](https://mtf.wiki/zh-cn/docs/psyco/guangdong/zhao-suhua/),友跨（据MtF就诊记录）
+江苏省南京市,南京鼓楼医院,[曹秋云](https://mtf.wiki/zh-cn/docs/psyco/jiangsu/cao-qiuyun/),已确认友FtM
+辽宁省大连市,大连第七人民医院,[刘宏](https://mtf.wiki/zh-cn/docs/psyco/liaoning/liu-hong/),
+辽宁省大连市,大连第七人民医院,[张亮](https://mtf.wiki/zh-cn/docs/psyco/liaoning/zhang-liang/),
+湖南省长沙市,中南大学湘雅二医院,[贺莹](https://mtf.wiki/zh-cn/docs/psyco/hunan/he-ying/),已确认友FtM
 ```
+
+需要注意的是，除特殊备注 友跨 或 友FtM 的医生以外，可能并不是所有对MtF友善的医生都对FtM友善。
 
 更多信息请参见 <https://mtf.wiki/zh-cn/docs/psyco/>
 
