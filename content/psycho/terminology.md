@@ -53,7 +53,7 @@ AFAB 是 “出生时被指派为女性” 的缩写，AMAB 是 “出生时被�
 
 性别过渡可能涉及也可能不涉及激素和 / 或手术以获得身体上的改变。性别过渡一词可以用来描述将其性别表达从任何性别转变为另一性别的过程。
 
-人在其一生中可能有多次性别过渡，如[复性别过渡]({{< ref "#retransition" >}})，[逆性别过渡]({{< ref "#detransition" >}})
+人在其一生中可能有多次性别过渡，如[复性别过渡]({{< ref "terminology#retransition" >}})，[逆性别过渡]({{< ref "terminology#detransition" >}})
 
 ## 性别肯定（Gender-affirmation） 
 
