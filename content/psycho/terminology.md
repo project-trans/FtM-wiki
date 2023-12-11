@@ -45,7 +45,7 @@ weight: 1
 
 **MTF 或男跨女是旧术语，正在逐渐被淘汰。**
 
-## 性别烦躁（Gender dysphoria）
+## 性别烦躁（Gender dysphoria）{#gender-dysphoria}
 
 描述了出生时因生理和 / 或社会因素被指派的性别与个人实际的性别认同不相符而导致痛苦和不适的状态。
 
@@ -53,7 +53,7 @@ weight: 1
 
 **并不是所有的跨性别和多元性别人士都会经历性别烦躁。**
 
-## 性别过渡（Transition）
+## 性别过渡（Transition）{#transition}
 
 是指人们通常从与其出生时被指派性别相关联的性别表达过渡至更符合其性别认同的另一种性别表达的过程。人们可以通过更改其姓名、代词、服装、发型和 / 或行动方式及语言方式等途径进行社会过渡。
 
@@ -61,17 +61,17 @@ weight: 1
 
 人在其一生中可能有多次性别过渡，如[复性别过渡]({{< ref "terminology#retransition" >}})，[逆性别过渡]({{< ref "terminology#detransition" >}})
 
-## 性别肯定（Gender-affirmation） 
+## 性别肯定（Gender-affirmation）{#gender-affirmation}
 
 是指对一个人性别认同的认可或肯定，通常包含社会、心理、医疗和法律等维度。
 
 性别肯定一词可被用于替换 “性别过渡”（如医疗性别肯定，medical gender-affirmation），或可以作为形容词（如，性别肯定照护，gender-affirming care）。
 
-## 性别肯定手术（GAS, Gender-affirmation surgery）
+## 性别肯定手术（GAS, Gender-affirmation surgery）{#gas}
 
 用于形容更改性征以肯定一个人性别认同的手术。
 
-## 顺性别（Cisgender）
+## 顺性别（Cisgender）{#cisgender}
 
 指性别认同与出生时受指派性别相符的个体。
 
@@ -79,7 +79,7 @@ weight: 1
 
 一个人的性别认同与出生时所分配的不同，但可能更为复杂、流动、多方面，或者比跨性别者定义更加模糊。
 
-## 间性人（Intersex） 
+## 间性人（Intersex）{#intersex}
 
 是指出生时性别或生殖特征不符合女性或男性二元定义的人群。
 
@@ -97,13 +97,13 @@ weight: 1
 
 是拥有非二元认同的个体使用的另一种术语。
 
-## 性别拓展（Gender expansive） 
+## 性别拓展（Gender expansive）{#gender-expansive}
 
 一词通常用于描述一部分人群，其身份认同或表达方式超出了在其社会和文化中与特定性别相关的行为或信念。
 
 性别独创（Gender creative）一词也时有使用。过去曾使用的性别变异（Gender variant）一词现在由于负面的涵义正在从专业术语中消失。
 
-## 性取向（Sexual orientation） {#orientation}
+## 性取向（Sexual orientation）{#orientation}
 
 是指一个人基于自身及伴侣的性别和 / 或性征所拥有的面向他人的性方面的自我认同、受到性吸引的因素以及性行为。性倾向和性别认同是两个不同的概念。
 
@@ -111,7 +111,7 @@ weight: 1
 
 被 其他 男性吸引的 {{< abbr FtM >}} 是 男同性恋
 
-## 性别误称（Misgender/misgendering） 
+## 性别误称（Misgender/misgendering）{#misgender}
 
 是指使用与个体的性别认同不相符的语言，包括代词如他 / 他的（he/his）、她 / 她的（she/her）、TA/TA 的（they/their），以及使用错误的敬称，如先生（sir, Mr.）。
 
@@ -125,7 +125,7 @@ weight: 1
 
 是指一个人进行复性别过渡，回到传统上与其出生时受指派性别相符的情况。
 
-## 跨性别恐惧（Transphobia）
+## 跨性别恐惧（Transphobia）{#transphobia}
 
 是指对跨性别和多元性别人群持有的负面态度、看法和行为。
 
