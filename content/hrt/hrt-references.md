@@ -42,4 +42,4 @@ weight: 4
 
 因此我们建议，在激素治疗前，**检查自身是否有高尿酸、高肌酐**的症状，以 综合考虑激素治疗启动时机；在激素治疗过程中，**无论此前是否出现高肌酐、高尿酸血症，请保持一定频率检查自身肌酐与尿酸的指标**，如有异常请**调整饮食** ，预防肾损伤、痛风。
 
-[^1]: Korpaisarn S, Chiewchalermsri D, Arunakul J, et al. [Effects of testosterone treatment on transgender males: A single-institution study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8511909/) *SAGE Open Medicine* 2021; 9
+[^1]: Korpaisarn S, Chiewchalermsri D, Arunakul J, et al. [Effects of testosterone treatment on transgender males: A single-institution study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8511909/) _SAGE Open Medicine_ 2021; 9
