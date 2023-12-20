@@ -34,9 +34,12 @@ weight: 4
 
 **加粗项表示具有临床意义；更新自 SOC - 7**
 
+以上基于[「跨性别和多元性别人群健康照护指南第八版「SOC-8」](https://project-trans.org/SOC-8)
+
 ### 补充
 
 值得留意的是，接受性别肯定睾酮激素干预**可能会使血液中肌酐与尿酸水平大幅增加**[^1]。
+
 因此我们建议，在激素治疗前，**检查自身是否有高尿酸、高肌酐**的症状，以 综合考虑激素治疗启动时机；在激素治疗过程中，**无论此前是否出现高肌酐、高尿酸血症，请保持一定频率检查自身肌酐与尿酸的指标**，如有异常请**调整饮食** ，预防肾损伤、痛风。
 
 [^1]: Korpaisarn S, Chiewchalermsri D, Arunakul J, et al. [Effects of testosterone treatment on transgender males: A single-institution study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8511909/) *SAGE Open Medicine* 2021; 9
