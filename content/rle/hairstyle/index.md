@@ -1,7 +1,21 @@
 ---
-title: 男士短发和理发店
+title: 发型
 tags: [RLE]
 ---
+
+通常来说，发型是 RLE 的一部分。
+
+可以按自己的喜好和外貌特征设计合适的发型，或是参考下述指引。
+
+**需要注意的是，短发不是RLE的充分必要条件。这个世界上也有长发男。**
+
+短发是男性性别刻板印象的一部分，但我们可以做出自由的选择。
+
+目前我们有 **较为完善的短发指引**，能满足大部分喜好短发的兄弟的需求。
+
+长发指引 待更新。
+
+## 男士短发与理发店
 
 作者：Finn
 
@@ -11,7 +25,7 @@ tags: [RLE]
 
 接下来，分享几个常见的男士短发
 
-## 碎发、飞机头（[Quiff](https://www.google.com/search?tbm=isch&q=Quiff+Hair)） {#quiff}
+### 碎发、飞机头（[Quiff](https://www.google.com/search?tbm=isch&q=Quiff+Hair)） {#quiff}
 
 - 和理发师说短飞机头基本都懂，作者个人觉得这个发型不错，激素前就留这个发型
 - 容易剪，通俗点说就是两边推渐变，上面留长打碎 5 - 6cm 为最佳（根据发量调节，碎一点更适合会用发型产品的兄弟，如果发量多，请尽可能打碎！），后脑勺头发推到枕骨以上做渐变
@@ -23,7 +37,7 @@ tags: [RLE]
 
 {{< gallery pattern="figure/quiff-*.jpg" fit="400x400" >}}
 
-## 侧背油头（[Side Back](https://www.google.com/search?tbm=isch&q=Side+Back+Hair)） {#side-back}
+### 侧背油头（[Side Back](https://www.google.com/search?tbm=isch&q=Side+Back+Hair)） {#side-back}
 
 - 较成熟/商务复古的兄弟，或者有发型打理习惯（**需要用发油定型**）
 - 一定一定不能懒，要会打理发型
@@ -35,7 +49,7 @@ tags: [RLE]
 
 {{< gallery pattern="figure/sideback-*.jpg" fit="400x400" >}}
 
-## 寸头（[Buzz Cut](https://www.google.com/search?tbm=isch&q=Buzz+Cut+Hair)）{#buzz-cut}
+### 寸头（[Buzz Cut](https://www.google.com/search?tbm=isch&q=Buzz+Cut+Hair)）{#buzz-cut}
 
 - 推荐美式圆寸，会根据你的脸型为你修饰，而不是一推子下去~~梦回提篮桥~~
 - 干净清爽，不需要任何打理，睡觉也不怕乱
@@ -48,7 +62,7 @@ tags: [RLE]
 
 {{< gallery pattern="figure/buzzcut-2-*.jpg" fit="400x400" >}}
 
-## 中长发（[Medium Hair](https://www.google.com/search?tbm=isch&q=Medium+Hair+Men)） {#medium-hair}
+### 中长发（[Medium Hair](https://www.google.com/search?tbm=isch&q=Medium+Hair+Men)） {#medium-hair}
 
 - 把他们统称为一类是因为这些发型都可以通过**发蜡发泥或者卷发棒**统一效果
 - 你需要一双勤劳且聪明的双手
@@ -58,7 +72,7 @@ tags: [RLE]
 
 ![medium hair](figure/medium-hair.png)
 
-## 什么是 [BarberShop](https://www.google.com/search?tbm=isch&q=BarberShop)？ {#barbershop}
+### 什么是 [BarberShop](https://www.google.com/search?tbm=isch&q=BarberShop)？ {#barbershop}
 
 BarberShop 目前的意思是男士专属理发店，但这只是字面的解释，更深层次的理解是男士复古发型和休闲社交场所。追本溯源，BarberShop 是以男士复古发型为基础的文化，起源于欧洲，在一些绅士国家，男士的着装非常讲究，打扮往往是全副武装，而发型也是其中关键的一环。
 
@@ -79,7 +93,7 @@ BarberShop 目前的意思是男士专属理发店，但这只是字面的解释
 
 Barber Shop 擅长的是推剪和雕刻，salon 则专注于剪发和染发，这也就是两者最大的区别。
 
-## BarberShop 是否值得一试？ {#try-barbershop}
+### BarberShop 是否值得一试？ {#try-barbershop}
 
 作者去过很多广州和上海不同风格的 BarberShop，里面的 Barber 都很热心店内装饰都很特别。
 
