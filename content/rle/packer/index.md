@@ -24,7 +24,7 @@ tags: [RLE]
 
 ## 植入物（Penile implant） {#penile-implant}
 
-作为 [国内srs四期]（https://ftm.wiki/zh-cn/srs/overview-china/）的项目（非必选项）
+作为 [国内srs四期](https://ftm.wiki/zh-cn/srs/overview-china/) 的项目（非必选项）
 
 也可用于 {{< abbr cisM >}} 的 勃起功能障碍、阴茎硬结症、缺血性阴茎异常勃起、畸形 和 阴茎任何外伤 的 治疗，
 
