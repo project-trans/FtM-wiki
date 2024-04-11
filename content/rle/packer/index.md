@@ -4,6 +4,7 @@ tags: [RLE]
 ---
 
 ## 假体（packer） {#packer}
+
 很多 {{< abbr FtM >}} 会选择戴假体。
 
 非FTM/FTX也可能会戴假体，例如一些coser
@@ -23,9 +24,9 @@ tags: [RLE]
 
 ## 植入物（Penile implant） {#penile-implant}
 
-作为 [阴茎成形术]({{< ref "srs-overview-global" >}}) 的可选项（而非必选项），
+作为 [国内srs四期]（https://ftm.wiki/zh-cn/srs/overview-china/）的项目（非必选项）
 
-可用于 {{< abbr cisM >}} 的 勃起功能障碍、阴茎硬结症、缺血性阴茎异常勃起、畸形 和 阴茎任何外伤 的 治疗，
+也可用于 {{< abbr cisM >}} 的 勃起功能障碍、阴茎硬结症、缺血性阴茎异常勃起、畸形 和 阴茎任何外伤 的 治疗，
 
 以及 {{< abbr FtM >}} 的 {{< page "srs" >}} 中的 阴茎成形术。
 
@@ -39,7 +40,7 @@ tags: [RLE]
 
 等等。
 
-### 软假体 {#packing-with-soft}
+## 自制软假体 {#packing-with-soft}
 
 绝大多数男性一天中大部分时间都不会带着 勃起的阴茎四处走动，因此在日常情况下不建议使用 特别硬质 的 假体。
 
@@ -47,7 +48,13 @@ tags: [RLE]
 
 这是在迫不得已的情况下的做法，**注意不要使用穿过的袜子**
 
-### 如果可以进行网上购物 {#shop}
+### 网购假体 {#shop}
+
+Axolom品牌假体官网：
+
+[点我看Axolom的假体，兄弟们推的](https://axolom.cn/collections/axolom-prosthetics/)
+
+某宝等网站：
 
 {{< figure src="figure-1.png" title="内裤罩杯" mask="true" >}}
 
@@ -56,3 +63,4 @@ tags: [RLE]
 {{< figure src="figure-2.png" title="一体成型的软式假体例子" mask="true" >}}
 
 搜索关键词是：”填充假体“、等等
+
