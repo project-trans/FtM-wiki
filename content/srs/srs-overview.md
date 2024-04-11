@@ -13,7 +13,7 @@ weight: 100
 - 嗓音和交流干预训练
 - 行为性适应
   - 生殖器隐藏
-  - [假体]({{< ref "packer#packing" >}})
+  - [假体](https://rle.wiki/fashion/ftm/packer/)
 
 跨性别者 可以进行各种 性别重置手术。
 
@@ -34,9 +34,9 @@ weight: 100
 其它干预：
 
 - 面部男性化手术
-- [声音改变]({{< ref "vocal-training" >}})
-- [假体]({{< ref "packer#packer" >}})
-- {{< page "corset" >}}
+- [声音改变](https://rle.wiki/fashion/ftm/vocal-training)
+- [假体](https://rle.wiki/fashion/ftm/packer/)
+- [束胸](https://rle.wiki/fashion/ftm/corset/)
 
 以上项目并非强制性，选择哪几个项目完全可以根据跨性别者自己的需要，
 但如果需要更改身份证性别身份的话必须完成“[一期手术]({{< ref "srs/411/stage-1" >}})”。

@@ -29,7 +29,7 @@ TODO
 
 ## 术后假体
 
-由于尿道进行了提升，一期手术 前后使用的 [排尿假体]({{< ref "packer#penile-implant" >}}) 可能有所区别。
+由于尿道进行了提升，一期手术 前后使用的 [排尿假体](https://rle.wiki/fashion/ftm/packer/#penile-implant) 可能有所区别。
 
 请在购买假体时询问商家是否有适用于“一期术后兄弟”的假体。
 

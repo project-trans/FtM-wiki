@@ -7,7 +7,7 @@ tags: [Testosterone]
 
 {{< abbr DHT >}}、{{< abbr 5aDHT >}} 是一种与睾酮有关的激素。
 
-在面部毛发、体毛、男性型秃发和生殖器生长等方面发挥作用，而在肌肉骨骼发育、[声音加深方面]({{< ref "vocal-training" >}}) 效果较差。
+在面部毛发、体毛、男性型秃发和生殖器生长等方面发挥作用，而在肌肉骨骼发育、[声音加深方面](https://rle.wiki/fashion/ftm/vocal-training) 效果较差。
 
 任何人体内的**一部分 {{< abbr T >}} 都会自然被 {{< abbr 5aR >}} 转化为 {{< abbr DHT >}}**，除非 {{< abbr 5aR2D >}}。
 
