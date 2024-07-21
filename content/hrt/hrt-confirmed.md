@@ -6,7 +6,9 @@ slug: confirmed
 weight: 2
 ---
 
-未更新的医生可能是未探索或对 {{< abbr FtM >}} 来说无相较 {{< abbr MtF >}} 的特殊之处，具体可查阅参考 <https://mtf.wiki/zh-cn/docs/hrt/>。
+未更新的医生可能是 **未探索** 或对 {{< abbr FtM >}} 来说无相较 {{< abbr MtF >}} 的特殊之处，具体可查阅参考[MtF的全国HRT资源](https://mtf.wiki/zh-cn/docs/hrt)
+
+MtFwiki列举出的医院不一定有可供FtM/FtX使用的药物，因睾酮类药物货源相对较少、管制相对严格
 
 ```csv
 省市,医院名称,医生姓名,备注
