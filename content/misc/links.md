@@ -3,13 +3,15 @@ title: 友情链接
 weight: 1
 ---
 
+## 友情站点
+
 ```csv
 站点,介绍
 <https://2345.LGBT>,跨性别内容导航站，由 MtF.wiki 团队维护
 <https://MtF.wiki>,姐妹站，跨性别女性（MtF）百科
 [@MtFwiki](https://twitter.com/MtFwiki),由 MtF.wiki 官方运营的 Twitter 账号
 [@FtMwiki](https://twitter.com/FtMwiki),由 MtF.wiki 官方运营的 FtM.wiki 官方 Twitter 账号
-[ProjectTran Community](https://link.mtf.wiki/discord),跨儿们的Discord群组
+[ProjectTrans Community](https://link.mtf.wiki/discord),跨儿们的Discord群组
 ```
 
 ## SRS 手术交流群 {#groups}
