@@ -2,7 +2,6 @@
 title: 北京大学第三医院
 weight: 302
 tags: [SRSChina, Hospital]
-
 ---
 
 北医三院不仅提供Gnrh类似物与HRT治疗，也提供全套srs的医疗资源。
