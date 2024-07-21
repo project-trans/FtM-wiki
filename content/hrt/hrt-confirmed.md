@@ -53,7 +53,7 @@ MtFwiki列举出的医院不一定有可供FtM/FtX使用的药物，因睾酮类
 
 **开具检查较多，排期长，可提前在当地做好检查**
 
-较全的北医三院跨性别就诊流程与注意事项请见 < https://mtf.wiki/zh-cn/docs/hrt/puth/ >
+较全的北医三院HRT/GnRH就诊流程与注意事项请见[北医三院就诊指南](https://mtf.wiki/zh-cn/docs/hrt/puth/)
 
 ### 上海 GnRH or HRT
 
