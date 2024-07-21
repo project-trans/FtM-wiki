@@ -9,8 +9,7 @@ weight: 1
 <https://MtF.wiki>,姐妹站，跨性别女性（MtF）百科
 [@MtFwiki](https://twitter.com/MtFwiki),由 MtF.wiki 官方运营的 Twitter 账号
 [@FtMwiki](https://twitter.com/FtMwiki),由 MtF.wiki 官方运营的 FtM.wiki 官方 Twitter 账号
-[MtF.wiki Official](https://link.mtf.wiki/discord),由 MtF.wiki 官方运营的 Discord 服务器
-[FtM.wiki Official](https://discord.com/invite/KuAuwBMuT9),由 MtF.wiki 官方运营的 FtM.wiki 官方 Discord 服务器
+[ProjectTran Community](https://link.mtf.wiki/discord),跨儿们的Discord群组
 ```
 
 ## SRS 手术交流群 {#groups}
