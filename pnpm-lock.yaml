@@ -16,13 +16,11 @@ devDependencies:
 
 packages:
   /@types/web@0.0.72:
-    
-    resolution: 
+    resolution:
       { integrity: sha512-8ELWTmT6gpjH+mFCN6jja/pmXBZTOjSvfnBcxwP7xKC9tkqLNVxtQX/o2W0c1VcUR2ZFPoPSNH7YtdZQfHOvmg== }
     dev: true
 
   /bulma@0.9.4:
-    
-    resolution: 
+    resolution:
       { integrity: sha512-86FlT5+1GrsgKbPLRRY7cGDg8fsJiP/jzTqXXVqiUZZ2aZT8uemEOHlU1CDU+TxklPEZ11HZNNWclRBBecP4CQ== }
     dev: false
