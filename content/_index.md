@@ -3,6 +3,8 @@ title: 欢迎来到 FtM.wiki
 linkTitle: FtM.wiki
 ---
 
+![LOGO](favicon.png)
+
 欢迎来到 FtM.wiki。
 这里是一个或许可以给部分 {{< abbr FtM >}} 群体提供帮助的地方。
 
@@ -24,7 +26,7 @@ FtM.wiki 致力于成为一个 免费开放 且 持续更新 的 跨性别知识
 
 ## 声明 {#notice}
 
-由于目前 FtM.wiki 无法招募到编辑，如有希望长期参与 FtM.wiki 编辑工作请发送邮件至 <join@ftm.wiki>。
+如有希望长期参与 FtM.wiki 编辑工作请发送邮件至 <join@ftm.wiki>
 
 目前 Project Trans 无法合规接收社区赞助故该维护工作无报酬。
 
