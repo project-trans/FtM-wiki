@@ -25,22 +25,15 @@ validity: -1
 
 ## 工作组 {#workgroup}
 
-目前 FtM.wiki 由 <https://MtF.wiki> 托管经营。
+目前 FtM.wiki 与 <https://MtF.wiki> 合作，属于[ProjectTrans](https://about.project-trans.org/)的项目，半独立运营。
 
-在 FtM.wiki 筹备完成独立工作组后则会切换至独立运营，
 如果有意加入请发送邮件至 <join@ftm.wiki>。
-
-## 投稿方式 {#how-to-post}
-
-目前 FtM.wiki 由 MtF.wiki 托管经营因此内容投稿，应遵守 MtF.wiki 规则并投稿至 MtF.wiki 并由 MtF.wiki 受理后添加至 FtM.wiki。
 
 内容方面将维持 FtM.wiki 与 MtF.wiki 具有一定的 {{< wiki 正交 >}}。
 
 因此对于 {{< page "psycho-confirmed" >}}、{{< page "hrt-confirmed" >}} 主要就诊内容将记载于 <https://MtF.wiki>，
 
-而 {{< abbr FtM >}} 所需**特别注意事项**则由 FtM.wiki 记录。
-
-关于投稿请参见：[MtF.wiki 贡献者指南](https://mtf.wiki/zh-cn/docs/contributor-guide/)。
+而 {{< abbr FtM >}} 所需**特别注意事项**则由 FtM.wiki 记录，详见 [HRT](https://ftm.wiki/zh-cn/hrt/) [精神科](https://ftm.wiki/zh-cn/psycho/confirmed/) 等栏目
 
 ## 联系方式 {#contact}
 
