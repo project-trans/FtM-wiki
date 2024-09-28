@@ -3,9 +3,9 @@ title: 针剂
 description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊)
 ---
 
-{{< notice warning "用药安全提示" >}}
+{{< message title = "用药安全提示" >}}
 请仔细阅读说明书并在医师指导下使用药物。
-{{< /notice >}}
+{{< /message >}}
 
 ## 十一酸睾酮注射液（Testosterone undecanoate）
 
