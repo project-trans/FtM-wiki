@@ -47,7 +47,7 @@ description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊)
 
 Rotexmedica 已更名为 PANPHARMA。厂家是一样的。
 
-- 英文名称： Testoviron Depot 
+- 英文名称： Testoviron Depot
 - 药品成分：庚酸睾酮 （Testosterone enanthate）
 - 厂商： Rotexmedica （PANPHARMA）
 - 规格： 一盒 20 瓶 ，每瓶 1 mL， 含有 250 mg 庚酸
