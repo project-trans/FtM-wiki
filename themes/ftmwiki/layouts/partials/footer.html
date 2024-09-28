@@ -2,7 +2,7 @@
 <section class="content has-text-centered">
 <p>{{ .Site.Copyright | replaceRE "#YEAR#" now.Year | markdownify }}</p>
 <p class="last-modifed has-text-grey-light">
-{{- T "last-changed" .Site.LastChange | safeHTML -}}
+{{- T "last-changed" .Site.Lastmod | safeHTML -}}
 </p>
 </section>
 </footer>
