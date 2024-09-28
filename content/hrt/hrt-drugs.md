@@ -1,5 +1,5 @@
 ---
-title: HRT 药物的合规购入条件
+title: HRT 合规药物一览
 tags: [Drug]
 slug: drugs
 weight: 3

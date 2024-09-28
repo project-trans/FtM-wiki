@@ -1,5 +1,5 @@
 ---
-title: HRT 已确认列表
+title: 合法 HRT 已确认列表
 description: 本页面旨在列出已确认的医师列表
 tags: [HRT]
 slug: confirmed
