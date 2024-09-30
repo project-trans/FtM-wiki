@@ -3,7 +3,7 @@ title: 乳腺癌筛查
 tags: [Cancer]
 ---
 
-所有人包括 顺性别 和 {{< abbr FtM >}} 和 女性，都有 延伸到锁骨（锁骨） 和 腋窝（腋下） 的乳房组织，
+所有人包括 顺性别 和 {{< abbr FtM >}} 和 {{< abbr MtF >}} ，都有 延伸到锁骨（锁骨） 和 腋窝（腋下） 的乳房组织，
 并且在 {{< abbr cisF >}} 的 乳房切除术 和 [跨性别的胸部重建]({{< ref "top-surgery" >}}) 后保留。
 
 {{< abbr FtM >}} 可能由于 长期的 [束胸](https://rle.wiki/fashion/ftm/corset/) 或 胸部重建手术中 对残余乳腺的 机械损伤[^1]
