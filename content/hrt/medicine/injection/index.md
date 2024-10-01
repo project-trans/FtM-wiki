@@ -115,17 +115,18 @@ Rotexmedica 已更名为 PANPHARMA。厂家是一样的。
 作为一种外源睾酮药物，Sustanon 250是人体内源睾酮的完美复制品。而Sustanon 250和其他混合睾酮制品的区别在于它含有准确剂量的带有不同酯基的睾酮分子。但是Sustanon 250的生产科技不仅仅是把这四种睾酮混合起来那么简单，这也就是为什么地下实验室很难仿制出高品质的Sustanon 250。
 
 <br /> Sustanon 250的具体药品成分如下：
+
 - 30 mg/ml 丙酸睾酮 (Testosterone propionate)
-- 60 mg/ml苯丙酸睾酮 (Testosterone phenylpropionate)
-- 60 mg/ml异己酸睾酮 (Testosterone isocaproate)
-- 100 mg/ml癸酸睾酮 (Testosterone decanoate)
+- 60 mg/ml 苯丙酸睾酮 (Testosterone phenylpropionate)
+- 60 mg/ml 异己酸睾酮 (Testosterone isocaproate)
+- 100 mg/ml 癸酸睾酮 (Testosterone decanoate)
 
 ### Aspen
 
 |                  国际包装                  |              台湾包装 (长力大雄)               |
 | :----------------------------------------: | :--------------------------------------------: |
 | ![!](/images/medicine/injection/aspen.png) | ![!](/images/medicine/injection/aspen-tw.jpeg) |
- 
+
 - 中文名称： 萨特龙／混合睾酮250，长力大雄注射剂
 - 厂商：Aspen （安沛国际）
 - [说明书（英文）](https://www.medsafe.govt.nz/profs/datasheet/s/Sustanoninj.pdf)
