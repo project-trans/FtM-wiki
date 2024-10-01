@@ -114,7 +114,7 @@ Rotexmedica 已更名为 PANPHARMA。厂家是一样的。
 
 作为一种外源睾酮药物，Sustanon 250是人体内源睾酮的完美复制品。而Sustanon 250和其他混合睾酮制品的区别在于它含有准确剂量的带有不同酯基的睾酮分子。但是Sustanon 250的生产科技不仅仅是把这四种睾酮混合起来那么简单，这也就是为什么地下实验室很难仿制出高品质的Sustanon 250。
 
-<br /> Sustanon 250的具体药品成分如下：
+Sustanon 250的具体药品成分如下：
 
 - 30 mg/ml 丙酸睾酮 (Testosterone propionate)
 - 60 mg/ml 苯丙酸睾酮 (Testosterone phenylpropionate)
