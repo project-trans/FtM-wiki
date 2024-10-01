@@ -11,6 +11,8 @@ description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊)
 
 ### 思特珑十一酸睾酮注射液
 
+![思特珑](/images/medicine/injection/sitelong.png)
+
 - 药品名称：思特珑
 - 药品成分：十一酸睾酮（Testosterone undecanoate）
 - 批准字号：国药准字H10900063
@@ -19,6 +21,8 @@ description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊)
 - [说明书](https://www.yixue.com/%E5%8D%81%E4%B8%80%E9%85%B8%E7%9D%BE%E9%85%AE%E6%B3%A8%E5%B0%84%E6%B6%B2)
 
 ### 拜耳NEBIDO
+
+![耐必多](/images/medicine/injection/nebido.png)
 
 - 英文名称：NEBIDO
 - 中文名称：耐必多
@@ -30,6 +34,19 @@ description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊)
 ## 庚酸睾酮注射液 （Testosterone enanthate）
 
 ### 拜尔 Testoviron Depot
+
+|                  德国单支安瓿瓶装                  |                 德国20支安瓿瓶装（已停产）                  |
+| :-----------------------------------------------: | :-----------------------------------------------: |
+| ![!](/images/medicine/injection/bayer-germany.png) | ![!](/images/medicine/injection/bayer-germany-20.png) |
+
+|                  巴基斯坦                | 
+| :-----------------------------------------------: | 
+| ![!](/images/medicine/injection/bayer-pakistan.png) | 
+
+
+|                  印度旧包装               |                印度新包装                |
+| :-----------------------------------------------: | :-----------------------------------------------: |
+| ![!](/images/medicine/injection/bayer-india-old.png) | ![!](/images/medicine/injection/bayer-india-new.jpeg) |
 
 - 英文名称： Testoviron Depot
 - 药品成分：庚酸睾酮 （Testosterone enanthate）
@@ -45,6 +62,8 @@ description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊)
 
 ### Rotexmedica （PANPHARMA）
 
+![rotecmedica](/images/medicine/injection/rotexmedica.jpg)
+
 Rotexmedica 已更名为 PANPHARMA。厂家是一样的。
 
 - 英文名称： Testoviron Depot
@@ -53,6 +72,8 @@ Rotexmedica 已更名为 PANPHARMA。厂家是一样的。
 - 规格： 一盒 20 瓶 ，每瓶 1 mL， 含有 250 mg 庚酸
 
 ### Jenapharm
+
+![jenapharm](/images/medicine/injection/jenapharm.png)
 
 - 英文名称： Testoviron-Depot-250
 - 药品成分：庚酸睾酮 （Testosterone enanthate）
@@ -63,6 +84,8 @@ Rotexmedica 已更名为 PANPHARMA。厂家是一样的。
 
 ### “台裕” 持效睪丸素注射液
 
+![taiyu](/images/medicine/injection/taiyu.png)
+
 - 药品名称： “台裕” 持效睪丸素注射液
 - 药品成分：环戊丙酸睾酮（Testosterone cypionate）
 - 厂商：台裕
@@ -70,6 +93,8 @@ Rotexmedica 已更名为 PANPHARMA。厂家是一样的。
 - [说明书](https://www.csh.org.tw/into/pharm/DESC/TEST.pdf)
 
 ### Test-C印度仿制药
+
+![testc](/images/medicine/injection/testc.png)
 
 - 英文名称： Test-C
 - 药品成分：环戊丙酸睾酮（Testosterone cypionate）
