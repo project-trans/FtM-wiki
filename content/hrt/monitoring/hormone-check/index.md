@@ -72,7 +72,7 @@ tags: [Hormone]
 
 雌二醇：100 ng/L ≈ 367.1 pmol/L。
 
-[激素换算器](https://mtf.wiki/zh-cn/converter/)
+[激素换算器]("ref" converter)
 
 ## 正常值 {#normal-value}
 
