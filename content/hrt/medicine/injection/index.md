@@ -1,6 +1,6 @@
 ---
 title: 针剂药物汇总
-description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊)
+description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊/混合睾酮 250)
 ---
 
 {{< message title = "用药安全提示" >}}
@@ -120,7 +120,7 @@ Rotexmedica 已更名为 PANPHARMA。厂家是一样的。
 - 60 mg/ml异己酸睾酮 (Testosterone isocaproate)
 - 100 mg/ml癸酸睾酮 (Testosterone decanoate)
 
-### 安沛国际 aspen
+### Aspen
 
 |                  国际包装               |                台湾包装 (长力大雄)              |
 | :-----------------------------------------------: | :-----------------------------------------------: |
@@ -128,7 +128,7 @@ Rotexmedica 已更名为 PANPHARMA。厂家是一样的。
 
 - 英文名称： Sustanon 250
 - 中文名称： 萨特龙／混合睾酮250，长力大雄注射剂
-- 厂商：aspen （安沛国际）
+- 厂商：Aspen （安沛国际）
 - [说明书（英文）](https://www.medsafe.govt.nz/profs/datasheet/s/Sustanoninj.pdf)
 - [说明书（台湾正体）](https://www.cth.org.tw/public/medi_news/1fbbda25ce158a504cef1296406308e6.pdf)
 
@@ -146,5 +146,5 @@ Rotexmedica 已更名为 PANPHARMA。厂家是一样的。
 ![meditech](/images/medicine/injection/meditech.jpg)
 
 - 英文名称： Sustanon 250
-- 中文名称： 萨特龙／混合睾酮250
+- 中文名称： 萨特龙／混合睾酮 250
 - 厂商：Meditech
