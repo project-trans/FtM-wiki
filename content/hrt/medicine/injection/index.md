@@ -11,7 +11,7 @@ description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊/混合�
 
 ### 思特珑十一酸睾酮注射液
 
-![思特珑](/images/medicine/injection/sitelong.png)
+{{< figure src="/images/medicine/injection/sitelong.png" width="50%" >}}
 
 - 药品名称：思特珑
 - 药品成分：十一酸睾酮（Testosterone undecanoate）
@@ -22,7 +22,7 @@ description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊/混合�
 
 ### 拜耳 Nebido
 
-![耐必多](/images/medicine/injection/nebido.png)
+{{< figure src="/images/medicine/injection/nebido.png" width="50%" >}}
 
 - 英文名称：Nebido
 - 中文名称：耐必多
@@ -33,7 +33,7 @@ description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊/混合�
 
 ### Aveed
 
-![aveed](/images/medicine/injection/aveed.jpg)
+{{< figure src="/images/medicine/injection/aveed.jpg" width="70%" >}}
 
 - 英文名称：Aveed
 - 药品成分：十一酸睾酮（Testosterone undecanoate）
@@ -51,7 +51,8 @@ description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊/混合�
 
 |                      巴基斯坦                       |
 | :-------------------------------------------------: |
-| ![!](/images/medicine/injection/bayer-pakistan.png) |
+| {{< figure src="/images/medicine/injection/bayer-pakistan.png" width="50%" >}} |
+
 
 |                      印度旧包装                      |                      印度新包装                       |
 | :--------------------------------------------------: | :---------------------------------------------------: |
@@ -71,7 +72,7 @@ description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊/混合�
 
 ### Rotexmedica （PANPHARMA）
 
-![rotecmedica](/images/medicine/injection/rotexmedica.jpg)
+{{< figure src="/images/medicine/injection/rotexmedica.jpg" width="70%" >}}
 
 Rotexmedica 已更名为 PANPHARMA。厂家是一样的。
 
@@ -82,7 +83,7 @@ Rotexmedica 已更名为 PANPHARMA。厂家是一样的。
 
 ### Jenapharm
 
-![jenapharm](/images/medicine/injection/jenapharm.png)
+{{< figure src="/images/medicine/injection/jenapharm.png" width="70%" >}}
 
 - 英文名称： Testoviron-Depot-250
 - 药品成分：庚酸睾酮 （Testosterone enanthate）
@@ -103,7 +104,7 @@ Rotexmedica 已更名为 PANPHARMA。厂家是一样的。
 
 ### Test-C印度仿制药
 
-![testc](/images/medicine/injection/testc.png)
+{{< figure src="/images/medicine/injection/testc.png" width="50%" >}}
 
 - 英文名称： Test-C
 - 药品成分：环戊丙酸睾酮（Testosterone cypionate）
@@ -125,7 +126,7 @@ Sustanon 250的具体药品成分如下：
 
 |                  国际包装                  |              台湾包装 (长力大雄)               |
 | :----------------------------------------: | :--------------------------------------------: |
-| ![!](/images/medicine/injection/aspen.png) | ![!](/images/medicine/injection/aspen-tw.jpeg) |
+| ![!](/images/medicine/injection/aspen.png) | ![!](/images/medicine/injection/aspen-tw.png) |
 
 - 中文名称： 萨特龙／混合睾酮250，长力大雄注射剂
 - 厂商：Aspen （安沛国际）
@@ -134,7 +135,7 @@ Sustanon 250的具体药品成分如下：
 
 ### Organon
 
-![organon](/images/medicine/injection/organon.jpg)
+{{< figure src="/images/medicine/injection/organon.jpg" width="50%" >}}
 
 - 英文名称： Sustanon 250
 - 中文名称： 萨特龙／混合睾酮250
@@ -143,7 +144,7 @@ Sustanon 250的具体药品成分如下：
 
 ### Meditech
 
-![meditech](/images/medicine/injection/meditech.jpg)
+{{< figure src="/images/medicine/injection/meditech.jpg" width="50%" >}}
 
 - 英文名称： Sustanon 250
 - 中文名称： 萨特龙／混合睾酮 250
