@@ -11,8 +11,6 @@ description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊/混合�
 
 ### 思特珑十一酸睾酮注射液
 
-![!](/images/medicine/injection/sitelong.png)
-
 {{< figure src="/images/medicine/injection/sitelong.png" width="50%" >}}
 
 - 药品名称：思特珑
