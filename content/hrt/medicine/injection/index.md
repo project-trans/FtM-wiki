@@ -123,9 +123,9 @@ Sustanon 250的具体药品成分如下：
 
 ### Aspen
 
-|                  国际包装                  |              台湾包装 (长力大雄)               |
-| :----------------------------------------: | :--------------------------------------------: |
-| ![!](/images/medicine/injection/aspen.png) | ![!](/images/medicine/injection/aspen-tw.jpeg) |
+|                  国际包装                  |              台湾包装 (长力大雄)              |
+| :----------------------------------------: | :-------------------------------------------: |
+| ![!](/images/medicine/injection/aspen.png) | ![!](/images/medicine/injection/aspen-tw.png) |
 
 - 中文名称： 萨特龙／混合睾酮250，长力大雄注射剂
 - 厂商：Aspen （安沛国际）
