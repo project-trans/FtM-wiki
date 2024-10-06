@@ -87,9 +87,9 @@ PS：很多同类反映用了一年或者几个月也没有不适的情况，只
 - [说明书（英语）](https://www.medicines.org.uk/emc/files/pil.13936.pdf)
 
 #### 品牌：Testim
- 
+
 ![testim](/images/medicine/gel/testim.png）
- 
+
 - 有效成分：睾酮
 - 生产企业： Simple Pharma
 - 药品规格： 1% &times 5g（含睾酮 50mg）
