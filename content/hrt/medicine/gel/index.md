@@ -35,7 +35,7 @@ PS：很多同类反映用了一年或者几个月也没有不适的情况，只
 
 #### 品牌：Testogel
 
-![testogel](/images/medicine/gel/testogel.jpeg）
+![testogel](/images/medicine/gel/testogel.jpeg)
 
 - 有效成分：睾酮
 - 生产企业： Besins Healthcare
@@ -44,7 +44,7 @@ PS：很多同类反映用了一年或者几个月也没有不适的情况，只
 
 #### 品牌：AndroGel
 
-![androgel](/images/medicine/gel/androgel.png）
+![androgel](/images/medicine/gel/androgel.png)
 
 - 有效成分：睾酮
 - 生产企业： Besins Healthcare
@@ -61,7 +61,7 @@ PS：很多同类反映用了一年或者几个月也没有不适的情况，只
 
 ### (已停产） Bayer （拜耳）的睾酮凝胶
 
-![bayer-testogel](/images/medicine/gel/bayer-testogel.png）
+![bayer-testogel](/images/medicine/gel/bayer-testogel.png)
 
 - 品牌：Testogel
 - 有效成分：睾酮
@@ -88,7 +88,7 @@ PS：很多同类反映用了一年或者几个月也没有不适的情况，只
 
 #### 品牌：Testim
 
-![testim](/images/medicine/gel/testim.png）
+![testim](/images/medicine/gel/testim.png)
 
 - 有效成分：睾酮
 - 生产企业： Simple Pharma
@@ -97,7 +97,7 @@ PS：很多同类反映用了一年或者几个月也没有不适的情况，只
 
 ### Kyowa Kirin 的 Tostrex 睾酮凝胶
 
-![tostrex](/images/medicine/gel/tostrex.png）
+![tostrex](/images/medicine/gel/tostrex.png)
 
 - 品牌：Tostrex
 - 有效成分：睾酮
@@ -107,7 +107,7 @@ PS：很多同类反映用了一年或者几个月也没有不适的情况，只
 
 ### 印度 Sun Pharma 的 Cernos Gel
 
-![cernos](/images/medicine/gel/cernos.png）
+![cernos](/images/medicine/gel/cernos.png)
 
 - 品牌：Cernos Gel
 - 有效成分：睾酮
