@@ -33,7 +33,7 @@ description: 睾酮激素药物口服篇汇总
 |            十一酸睾酮软胶囊             |              十一酸睾酮胶丸               |
 | :-------------------------------------: | :---------------------------------------: |
 | ![!](/images/medicine/pill/andriol.png) | ![!](/images/medicine/pill/andriol_1.png) |
- 
+
 - 英文名称：Andriol Testocaps
 - 中文名称：安特尔
 - 药品成分：十一酸睾酮（Testosterone undecanoate）
