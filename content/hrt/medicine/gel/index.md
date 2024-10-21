@@ -117,4 +117,4 @@ PS：很多同类反映用了一年或者几个月也没有不适的情况，只
 
 ## 自制教程
 
-- TODO
+- [睾酮凝胶自制教程](https://github.com/luckyLKY/DIY-ANDROGEL)
