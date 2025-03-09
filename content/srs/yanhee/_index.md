@@ -36,7 +36,7 @@ weight: 304
 
 ## yanhee价目表
 
-{{< figure src="Yanhee_Price.jpg" >}}
+![价目表](Yanhee_Price.jpg)
 
 ## 预约手术
 
