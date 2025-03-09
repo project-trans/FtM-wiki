@@ -72,7 +72,7 @@ tags: [Hormone]
 
 雌二醇：100 ng/L ≈ 367.1 pmol/L。
 
-[激素换算器](https://mtf.wiki/zh-cn/converter/)
+[激素换算器] {{< ref "converter" >}}
 
 ## 正常值 {#normal-value}
 
@@ -81,6 +81,7 @@ tags: [Hormone]
 {{< abbr TT >}},0.21 ~ 3.01 nmol/L\n≈ 6 ~ 86 ng/dL,14 ~ 25.4 nmol/L\n≈ 400 ~ 732 ng/dL
 {{< abbr FT >}},11±2 pmol/L,276±80 pmol/L
 {{< abbr DHT >}},,2.1 ~ 10.3 nmol/L\n≈ 60 ~ 300 ng/dL
+{{< abbr E2 >}},卵泡期 30 - 100 pg/mL\n≈黄体期 70 - 300 pg/mL,10 – 50 pg/ml
 ```
 
 （以上各项根据医院不同而有所不同）

@@ -1,6 +1,6 @@
 ---
 title: 针剂药物汇总
-description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊)
+description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊/混合睾酮 250)
 ---
 
 {{< message title = "用药安全提示" >}}
@@ -11,6 +11,8 @@ description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊)
 
 ### 思特珑十一酸睾酮注射液
 
+![思特珑](/images/medicine/injection/sitelong.png)
+
 - 药品名称：思特珑
 - 药品成分：十一酸睾酮（Testosterone undecanoate）
 - 批准字号：国药准字H10900063
@@ -18,18 +20,42 @@ description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊)
 - 规格：一支 10 盒， 一盒 1 瓶， 每瓶 2 mL， 含有 250 mg 十一酸
 - [说明书](https://www.yixue.com/%E5%8D%81%E4%B8%80%E9%85%B8%E7%9D%BE%E9%85%AE%E6%B3%A8%E5%B0%84%E6%B6%B2)
 
-### 拜耳NEBIDO
+### 拜耳 Nebido
 
-- 英文名称：NEBIDO
+![耐必多](/images/medicine/injection/nebido.png)
+
+- 英文名称：Nebido
 - 中文名称：耐必多
 - 药品成分：十一酸睾酮（Testosterone undecanoate）
 - 厂商： Bayer
 - 规格： 一盒 1 瓶 ，每瓶 4 mL， 含有 1000 mg 十一酸
 - [说明书（英语）](https://www.bayer.com/sites/default/files/NEBIDO_EN_PI.pdf)
 
+### Aveed
+
+![aveed](/images/medicine/injection/aveed.jpg)
+
+- 英文名称：Aveed
+- 药品成分：十一酸睾酮（Testosterone undecanoate）
+- 厂商： Endo International plc
+- 规格： 一盒 1 瓶 ，每瓶 3 mL， 含有 750 mg 十一酸
+- [说明书（英语）](https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/AveedMedGuide.pdf)
+
 ## 庚酸睾酮注射液 （Testosterone enanthate）
 
 ### 拜尔 Testoviron Depot
+
+|                  德国单支安瓿瓶装                  |              德国20支安瓿瓶装（已停产）               |
+| :------------------------------------------------: | :---------------------------------------------------: |
+| ![!](/images/medicine/injection/bayer-germany.png) | ![!](/images/medicine/injection/bayer-germany-20.png) |
+
+|                      巴基斯坦                       |
+| :-------------------------------------------------: |
+| ![!](/images/medicine/injection/bayer-pakistan.png) |
+
+|                      印度旧包装                      |                      印度新包装                       |
+| :--------------------------------------------------: | :---------------------------------------------------: |
+| ![!](/images/medicine/injection/bayer-india-old.png) | ![!](/images/medicine/injection/bayer-india-new.jpeg) |
 
 - 英文名称： Testoviron Depot
 - 药品成分：庚酸睾酮 （Testosterone enanthate）
@@ -45,6 +71,8 @@ description: 睾酮激素药物针剂篇汇总（十一酸/庚酸/环戊)
 
 ### Rotexmedica （PANPHARMA）
 
+![rotecmedica](/images/medicine/injection/rotexmedica.jpg)
+
 Rotexmedica 已更名为 PANPHARMA。厂家是一样的。
 
 - 英文名称： Testoviron Depot
@@ -53,6 +81,8 @@ Rotexmedica 已更名为 PANPHARMA。厂家是一样的。
 - 规格： 一盒 20 瓶 ，每瓶 1 mL， 含有 250 mg 庚酸
 
 ### Jenapharm
+
+![jenapharm](/images/medicine/injection/jenapharm.png)
 
 - 英文名称： Testoviron-Depot-250
 - 药品成分：庚酸睾酮 （Testosterone enanthate）
@@ -63,6 +93,8 @@ Rotexmedica 已更名为 PANPHARMA。厂家是一样的。
 
 ### “台裕” 持效睪丸素注射液
 
+![taiyu](/images/medicine/injection/taiyu.png)
+
 - 药品名称： “台裕” 持效睪丸素注射液
 - 药品成分：环戊丙酸睾酮（Testosterone cypionate）
 - 厂商：台裕
@@ -71,7 +103,48 @@ Rotexmedica 已更名为 PANPHARMA。厂家是一样的。
 
 ### Test-C印度仿制药
 
+![testc](/images/medicine/injection/testc.png)
+
 - 英文名称： Test-C
 - 药品成分：环戊丙酸睾酮（Testosterone cypionate）
 - 厂商：Evolve Biolabs
 - 规格： 一盒 10 瓶 ，每瓶 1 mL， 含有 250 mg 环戊丙酸
+
+## 混合型睾酮注射液（Sustanon 250）
+
+作为一种外源睾酮药物，Sustanon 250是人体内源睾酮的完美复制品。而Sustanon 250和其他混合睾酮制品的区别在于它含有准确剂量的带有不同酯基的睾酮分子。但是Sustanon 250的生产科技不仅仅是把这四种睾酮混合起来那么简单，这也就是为什么地下实验室很难仿制出高品质的Sustanon 250。
+
+Sustanon 250的具体药品成分如下：
+
+- 30 mg/ml 丙酸睾酮 (Testosterone propionate)
+- 60 mg/ml 苯丙酸睾酮 (Testosterone phenylpropionate)
+- 60 mg/ml 异己酸睾酮 (Testosterone isocaproate)
+- 100 mg/ml 癸酸睾酮 (Testosterone decanoate)
+
+### Aspen
+
+|                  国际包装                  |              台湾包装 (长力大雄)              |
+| :----------------------------------------: | :-------------------------------------------: |
+| ![!](/images/medicine/injection/aspen.png) | ![!](/images/medicine/injection/aspen-tw.png) |
+
+- 中文名称： 萨特龙／混合睾酮250，长力大雄注射剂
+- 厂商：Aspen （安沛国际）
+- [说明书（英文）](https://www.medsafe.govt.nz/profs/datasheet/s/Sustanoninj.pdf)
+- [说明书（台湾正体）](https://www.cth.org.tw/public/medi_news/1fbbda25ce158a504cef1296406308e6.pdf)
+
+### Organon
+
+![organon](/images/medicine/injection/organon.jpg)
+
+- 英文名称： Sustanon 250
+- 中文名称： 萨特龙／混合睾酮250
+- 厂商：Organon
+- [说明书（英文）](https://medicarcp.com/website/pdf/pils/9434%20-%20en.pdf)
+
+### Meditech
+
+![meditech](/images/medicine/injection/meditech.jpg)
+
+- 英文名称： Sustanon 250
+- 中文名称： 萨特龙／混合睾酮 250
+- 厂商：Meditech
