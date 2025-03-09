@@ -34,8 +34,7 @@ weight: 304
 
 {{< /message >}}
 
-
-## yanhee价目表 
+## yanhee价目表
 
 {{< figure src="Yanhee_Price.jpg" >}}
 
