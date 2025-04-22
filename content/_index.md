@@ -5,7 +5,7 @@ linkTitle: FtM.wiki
 
 ![LOGO](favicon.png)
 
-欢迎来到 FtM.wiki。
+欢迎来到 FtM.wiki。...
 这里是一个或许可以给部分 {{< abbr FtM >}} 群体提供帮助的地方。
 
 FtM（Female-to-Male），是指一部分出生时 指派性别为女性 的 {{< abbr FtM >}}。
