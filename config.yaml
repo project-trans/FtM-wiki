@@ -7,6 +7,11 @@ hasCJKLanguage: true
 defaultContentLanguage: zh-cn
 defaultContentLanguageInSubdir: true
 disableKinds: [taxonomy, term]
+
+outputs:
+  home:
+    - HTML
+    - JSON
 enableGitInfo: true
 enableRobotsTXT: true
 

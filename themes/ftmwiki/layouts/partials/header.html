@@ -19,6 +19,12 @@
 {{- end }}
 </section>
 <section class="navbar-end">
+<div class="navbar-item">
+  <div class="search-wrapper">
+    <input class="input search-input" type="search" placeholder="搜索…" data-index="{{ .Site.Home.RelPermalink }}index.json" autocomplete="off">
+    <div class="search-results box"></div>
+  </div>
+</div>
 {{- range where $pages ".Weight" "lt" 0 }}
 {{- template "navbar-page-link" (dict "Page" . "CurrentPage" $currentPage) }}
 {{- end }}

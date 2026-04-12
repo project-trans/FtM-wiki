@@ -262,3 +262,72 @@ main > .container {
     }
   }
 }
+
+.search-wrapper {
+  position: relative;
+  width: 200px;
+
+  @include until($tablet) {
+    width: 100%;
+  }
+
+  .search-input {
+    width: 100%;
+    font-size: 0.875rem;
+    height: 2rem;
+  }
+
+  .search-results {
+    display: none;
+    position: absolute;
+    top: calc(100% + 4px);
+    right: 0;
+    width: 300px;
+    max-height: 400px;
+    overflow-y: auto;
+    z-index: 100;
+    padding: 0.5rem 0;
+
+    @include until($tablet) {
+      position: static;
+      width: 100%;
+      max-height: 50vh;
+      box-shadow: none;
+      border: 1px solid $border;
+    }
+
+    &.is-active {
+      display: block;
+    }
+  }
+
+  .search-result-item {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem 1rem;
+    color: $grey-dark;
+    border-radius: $radius;
+
+    &:hover {
+      background-color: $white-bis;
+      color: $blue;
+    }
+  }
+
+  .search-result-title {
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+
+  .search-result-desc {
+    font-size: 0.75rem;
+    color: $grey;
+    margin-top: 0.1rem;
+  }
+
+  .search-empty {
+    padding: 0.5rem 1rem;
+    color: $grey;
+    font-size: 0.875rem;
+  }
+}
