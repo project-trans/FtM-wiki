@@ -20,6 +20,14 @@
 </section>
 <section class="navbar-end">
 <div class="navbar-item">
+  <button class="theme-toggle" aria-label="切换夜间模式">
+    <span class="icon-sun" aria-hidden="true">☀</span>
+    <span class="icon-moon" aria-hidden="true">☾</span>
+    <span class="theme-label-light">日间</span>
+    <span class="theme-label-dark">夜间</span>
+  </button>
+</div>
+<div class="navbar-item">
   <div class="search-wrapper">
     <input class="input search-input" type="search" placeholder="搜索…" data-index="{{ .Site.Home.RelPermalink }}index.json" autocomplete="off">
     <div class="search-results box"></div>
