@@ -27,13 +27,26 @@
 </section>
 </header>
 {{- define "navbar-page-link" }}
-{{- $classes := slice "navbar-item" }}
-{{-
-$active := or
+{{- $active := or
   (and .Page.IsNode (.Page.InSection .CurrentPage))
   (eq .CurrentPage .Page)
 -}}
+{{- $children := .Page.Pages }}
+{{- if $children }}
+<div class="navbar-item has-dropdown is-hoverable">
+  <a class="navbar-link{{ if $active }} is-active{{ end }}" href="{{ .Page.Permalink }}" title="{{ .Page.Description | default .Page.Title }}">{{ .Page.LinkTitle }}</a>
+  <div class="navbar-dropdown">
+    <a class="navbar-item" href="{{ .Page.Permalink }}" title="{{ .Page.Description | default .Page.Title }}">{{ .Page.LinkTitle }} 概览</a>
+    <hr class="navbar-divider">
+    {{- range $children }}
+    <a class="navbar-item" href="{{ .Permalink }}" title="{{ .Description | default .Title }}">{{ .LinkTitle }}</a>
+    {{- end }}
+  </div>
+</div>
+{{- else }}
+{{- $classes := slice "navbar-item" }}
 {{- if $active }}{{- $classes = $classes | append "is-active" -}}{{- end -}}
 {{- $className := delimit $classes " " }}
 <a class="{{ $className }}" href="{{ .Page.Permalink }}" title="{{ .Page.Description | default .Page.Title }}">{{ .Page.LinkTitle }}</a>
+{{- end }}
 {{- end }}

@@ -23,15 +23,150 @@ body {
 
 main > .container {
   @include from($tablet) {
-    max-width: $tablet !important;
+    max-width: 960px !important;
+  }
+  @include from($widescreen) {
+    max-width: 1100px !important;
   }
 }
 
-.navbar-menu .navbar-item {
+.article-layout {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 2rem;
+  align-items: start;
+
+  &.no-toc {
+    grid-template-columns: 1fr;
+  }
+
+  @include until($tablet) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.article-content {
+  min-width: 0;
+  padding-right: 1.5rem;
+
+  @include until($tablet) {
+    padding-right: 0;
+  }
+}
+
+.toc-sidebar {
+  position: sticky;
+  top: 4rem;
+
+  @include until($tablet) {
+    position: static;
+  }
+
+  .toc {
+    max-height: calc(100vh - 6rem);
+    overflow-y: auto;
+  }
+}
+
+.navbar-menu .navbar-item,
+.navbar-menu .navbar-link {
   color: $blue;
   &.is-active {
     color: $black;
     background-color: transparent;
+  }
+}
+
+// Mobile hamburger menu fixes
+@include until($tablet) {
+  .navbar-menu.is-active {
+    display: flex;
+    flex-direction: column;
+
+    // Move search to top of mobile menu
+    .navbar-end {
+      order: -1;
+      border-bottom: 1px solid $border;
+      padding-bottom: 0.5rem;
+      margin-bottom: 0.25rem;
+    }
+  }
+
+  // Mobile: collapse all dropdowns by default, only show when JS sets is-active
+  .navbar-item.has-dropdown .navbar-dropdown {
+    display: none !important;
+  }
+  .navbar-item.has-dropdown.is-active .navbar-dropdown {
+    display: block !important;
+  }
+}
+
+.page-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid $border;
+
+  .page-nav-prev,
+  .page-nav-next {
+    max-width: 48%;
+
+    .button {
+      white-space: normal;
+      height: auto;
+      padding: 0.5rem 0.75rem;
+      text-align: left;
+    }
+  }
+
+  .page-nav-next {
+    margin-left: auto;
+
+    .button {
+      text-align: right;
+    }
+  }
+}
+
+.section-card {
+  display: block;
+  transition: box-shadow 0.15s, transform 0.15s;
+  color: inherit;
+  &:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+    color: inherit;
+  }
+  .title {
+    color: $blue;
+    margin-bottom: 0.25rem;
+  }
+}
+
+.toc {
+  nav > ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    ul {
+      list-style: none;
+      padding-left: 1rem;
+      margin-top: 0.25rem;
+    }
+  }
+  li {
+    margin: 0;
+    & + li {
+      margin-top: 0.3rem;
+    }
+  }
+  a {
+    color: $grey-dark;
+    font-size: 0.9em;
+    &:hover {
+      color: $blue;
+    }
   }
 }
 
