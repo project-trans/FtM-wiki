@@ -1,44 +1,11 @@
 ---
 title: '激素换算器'
-description: '激素换算器'
+description: '激素单位换算工具'
 date: 2020-10-26T04:15:05+08:00
 draft: false
 ---
 
-<div style="position: relative; display: flex; flex-direction: column">
-  <style>
-    input {
-      color: #495057;
-      border: 1px solid #ced4da;
-      border-radius: 0.25rem;
-      /*transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;*/
-      padding: 1px;
-      height: 2em;
-    }
-    select {
-      color: #495057;
-      border: 1px solid #ced4da;
-      border-radius: 0.25rem;
-      /*transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;*/
-      padding: 1px;
-      height: 2em;
-    }
-    input:focus {
-      color: #495057;
-      outline: 0;
-      border-image: url(/images/shadow-i.png) 30 30 stretch;
-      border-image-width: 3px;
-      border-image-outset: 0px;
-    }
-    table {
-      box-shadow: none !important;
-      border-collapse: collapse !important;
-    }
-    td {
-      border: none !important;
-      vertical-align: baseline !important;
-    }
-  </style>
+<div class="converter-widget">
   <table style="margin: auto;">
     <tr>
       <td>

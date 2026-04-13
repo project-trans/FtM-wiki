@@ -82,6 +82,13 @@ main > .container {
   .navbar-menu.is-active {
     display: flex;
     flex-direction: column;
+    position: fixed;
+    top: 3.25rem; // Bulma navbar height
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow-y: auto;
+    z-index: 30;
 
     // Move search to top of mobile menu
     .navbar-end {
@@ -167,6 +174,50 @@ main > .container {
     &:hover {
       color: $blue;
     }
+  }
+}
+
+.converter-widget {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+
+  input, select {
+    color: $grey-dark;
+    border: 1px solid $border;
+    border-radius: $radius-small;
+    padding: 1px;
+    height: 2em;
+    background-color: $white;
+  }
+
+  input:focus {
+    outline: 0;
+    border-color: $blue;
+    box-shadow: 0 0 0 0.125em rgba($blue, 0.25);
+  }
+
+  table {
+    box-shadow: none !important;
+    border-collapse: collapse !important;
+  }
+
+  td {
+    border: none !important;
+    vertical-align: baseline !important;
+  }
+}
+
+html[data-theme="dark"] .converter-widget {
+  input, select {
+    color: var(--dm-text);
+    border-color: var(--dm-border);
+    background-color: var(--dm-raised);
+  }
+
+  input:focus {
+    border-color: var(--dm-link);
+    box-shadow: 0 0 0 0.125em rgba(109, 169, 228, 0.25);
   }
 }
 
@@ -417,6 +468,7 @@ html[data-theme="dark"] {
     @include until($tablet) {
       border-top: 1px solid var(--dm-border);
       box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+      background-color: var(--dm-surface);
     }
   }
 
