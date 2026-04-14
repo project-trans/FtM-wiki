@@ -35,7 +35,7 @@ jobs:
         run: npm install
 
       - name: Build site
-        run: nix run github:nixos/nixpkgs/nixos-24.11#hugo -- --minify --enableGitInfo
+        run: nix run github:nixos/nixpkgs/nixos-24.11#hugo -- --minify --enableGitInfo --baseURL="${{ vars.SITE_BASE_URL || 'https://ftm.wiki' }}"
 
       - name: Deploy to Cloudflare Pages
         id: deploy
@@ -43,4 +43,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           accountId: ${{ secrets.CF_ACCOUNT_ID }}
-          command: pages deploy public --project-name=ftmwiki
+          command: pages deploy public --project-name=${{ vars.CF_PROJECT_NAME || 'ftmwiki' }} --commit-hash=${{ github.sha }} --commit-message="Deploy ${{ github.sha }}" --branch=${{ github.ref_name }}
