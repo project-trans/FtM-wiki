@@ -1,1 +1,11 @@
-{{ .Render "single" }}
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+{{- define "main" }}
+<main class="section">
+<section class="container py-4">
+{{ partial "page-header" . }}
+<main class="mt-6">
+{{ partial "page-content" . }}
+</main>
+</section>
+</main>
+{{- end }}

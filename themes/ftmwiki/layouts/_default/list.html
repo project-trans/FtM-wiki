@@ -9,11 +9,20 @@
 <main class="mt-6">
 {{ partial "page-content" . }}
 {{- if .Pages }}
-<ul class="menu-list">
+<div class="columns is-multiline mt-4">
 {{- range where .Pages ".Weight" "ge" 0 }}
-<li><a class="has-text-link" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+<div class="column is-half">
+  <a class="box section-card" href="{{ .Permalink }}">
+    <p class="title is-6">{{ .LinkTitle }}</p>
+    {{- with .Description }}
+    <p class="is-size-7 has-text-grey">{{ . }}</p>
+    {{- else }}
+    <p class="is-size-7 has-text-grey">{{ .Summary | plainify | truncate 60 }}</p>
+    {{- end }}
+  </a>
+</div>
 {{- end }}
-</ul>
+</div>
 {{- end }}
 </main>
 </section>

@@ -8,9 +8,39 @@
 {{ partial "breadcrumbs" . }}
 {{- end }}
 {{ partial "page-header" . }}
-<main class="mt-6">
+<div class="article-layout mt-6{{- if not (strings.Contains .TableOfContents "<li>") }} no-toc{{- end }}">
+{{- if strings.Contains .TableOfContents "<li>" }}
+<aside class="toc-sidebar">
+  <nav class="toc box">
+    <p class="menu-label">目录</p>
+    {{ .TableOfContents }}
+  </nav>
+</aside>
+{{- end }}
+<main class="article-content">
 {{ partial "page-content" . }}
+{{- if or .PrevInSection .NextInSection }}
+<nav class="page-nav mt-6">
+  <div class="page-nav-prev">
+    {{- with .NextInSection }}
+    <a class="button" href="{{ .Permalink }}">
+      <span class="icon">←</span>
+      <span>{{ .LinkTitle }}</span>
+    </a>
+    {{- end }}
+  </div>
+  <div class="page-nav-next">
+    {{- with .PrevInSection }}
+    <a class="button" href="{{ .Permalink }}">
+      <span>{{ .LinkTitle }}</span>
+      <span class="icon">→</span>
+    </a>
+    {{- end }}
+  </div>
+</nav>
+{{- end }}
 </main>
+</div>
 </section>
 </main>
 {{- end }}
